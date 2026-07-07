@@ -1,0 +1,1001 @@
+company_id,name,industry,size_band,city,tier,registered_date
+1,Pandey Inc,FMCG,Startup (<50),Bahraich,Tier-3,2023-10-03
+2,Patel Group,FMCG,Small (50-200),Bhagalpur,Tier-3,2023-12-03
+3,Walia-Narain,EdTech,Mid (200-1000),Hazaribagh,Tier-3,2024-01-23
+4,"Bhatia, Bhatnagar and Banik",Logistics,Small (50-200),Tiruppur,Tier-1,2023-07-15
+5,Warrior-Grewal,Manufacturing,Startup (<50),Bally,Tier-2,2023-09-01
+6,Anne-Patel,Financial Services,Startup (<50),Rajpur Sonarpur,Tier-3,2023-07-16
+7,Rege Ltd,Consulting,Small (50-200),Davanagere,Tier-3,2023-09-04
+8,Parmer Group,E-Commerce,Mid (200-1000),Raurkela Industrial Township,Tier-2,2023-06-18
+9,"Savant, Divan and Dayal",Cybersecurity,Small (50-200),Morena,Tier-3,2023-12-18
+10,Chandra LLC,Logistics,Startup (<50),Kozhikode,Tier-2,2023-11-14
+11,"Yadav, Varty and Krishna",FMCG,Small (50-200),Hosur,Tier-3,2023-07-16
+12,Chander Ltd,Information Technology,Large (1000-5000),Chennai,Tier-2,2023-06-02
+13,Rama-Baral,Cybersecurity,Small (50-200),Maheshtala,Tier-1,2023-10-20
+14,Anand Group,Manufacturing,Large (1000-5000),Tirunelveli,Tier-2,2023-09-06
+15,Devan-Din,Consulting,Mid (200-1000),Karnal,Tier-3,2023-10-07
+16,Merchant LLC,Healthcare,Mid (200-1000),Siliguri,Tier-2,2023-12-18
+17,"Wagle, Dey and Mittal",Manufacturing,Small (50-200),Anand,Tier-2,2023-10-27
+18,Dewan Ltd,Manufacturing,Startup (<50),Jaunpur,Tier-3,2023-09-16
+19,Prasad-Vala,E-Commerce,Large (1000-5000),Madanapalle,Tier-2,2024-03-15
+20,Dubey-Pal,Consulting,Startup (<50),Bhopal,Tier-3,2023-07-18
+21,"Sama, Sarkar and Mishra",Manufacturing,Mid (200-1000),Madhyamgram,Tier-1,2023-08-15
+22,Naidu Ltd,E-Commerce,Small (50-200),Mysore,Tier-2,2023-06-04
+23,"Pillai, Narang and Karpe",Logistics,Enterprise (5000+),Sri Ganganagar,Tier-2,2023-06-29
+24,Malhotra LLC,Telecommunications,Small (50-200),Dhule,Tier-2,2023-08-16
+25,"Pau, Gara and Choudhary",E-Commerce,Startup (<50),Bulandshahr,Tier-2,2024-01-13
+26,Bose Ltd,Consulting,Enterprise (5000+),Howrah,Tier-2,2024-02-12
+27,"Pillay, Palan and Shere",Healthcare,Startup (<50),Udaipur,Tier-3,2023-11-11
+28,Koshy LLC,E-Commerce,Startup (<50),Sambalpur,Tier-3,2024-01-23
+29,Mohan and Sons,Automotive,Startup (<50),Dehradun,Tier-3,2023-06-25
+30,"Yohannan, Kala and Prashad",Logistics,Startup (<50),Raipur,Tier-3,2024-02-15
+31,"Palla, Sachar and Naidu",Telecommunications,Large (1000-5000),Raurkela Industrial Township,Tier-3,2024-03-06
+32,"Reddy, Amble and Kara",EdTech,Small (50-200),Sambhal,Tier-1,2024-02-02
+33,Das-Tailor,Financial Services,Mid (200-1000),Ramgarh,Tier-1,2023-06-29
+34,"Puri, Lal and Bhatt",FMCG,Mid (200-1000),Tenali,Tier-2,2023-09-20
+35,"Nigam, Sibal and Agrawal",Healthcare,Small (50-200),Sultan Pur Majra,Tier-3,2024-03-03
+36,"Lanka, Char and Gera",EdTech,Mid (200-1000),Dhanbad,Tier-1,2023-09-20
+37,De LLC,Information Technology,Enterprise (5000+),Gandhinagar,Tier-3,2023-06-08
+38,Sule Inc,Information Technology,Small (50-200),Vijayawada,Tier-2,2023-06-23
+39,Vasa-Soni,Information Technology,Large (1000-5000),Phusro,Tier-3,2024-01-03
+40,Dora Ltd,Healthcare,Small (50-200),Erode,Tier-3,2023-08-11
+41,"Shere, Choudhary and Som",EdTech,Startup (<50),Begusarai,Tier-2,2024-02-19
+42,Kale and Sons,Cybersecurity,Startup (<50),Mahbubnagar,Tier-3,2024-01-04
+43,Char-Kala,Logistics,Mid (200-1000),Kozhikode,Tier-3,2024-01-30
+44,"Subramaniam, Bobal and Pandya",Telecommunications,Small (50-200),Thrissur,Tier-2,2023-11-17
+45,Dhingra Group,Manufacturing,Small (50-200),Tiruchirappalli,Tier-3,2023-12-24
+46,"Suresh, Halder and Salvi",EdTech,Small (50-200),Mehsana,Tier-2,2024-03-09
+47,Gola-Subramaniam,Consulting,Enterprise (5000+),Nanded,Tier-3,2023-08-01
+48,Zacharia Ltd,Telecommunications,Large (1000-5000),Nashik,Tier-3,2023-08-24
+49,Gokhale Inc,Automotive,Mid (200-1000),Saharanpur,Tier-2,2023-11-06
+50,"Mital, Brahmbhatt and Raval",Telecommunications,Small (50-200),Gopalpur,Tier-3,2023-06-15
+51,"Shah, Rege and Verma",Healthcare,Enterprise (5000+),Bardhaman,Tier-1,2023-10-27
+52,"Khosla, Deo and Hegde",Manufacturing,Small (50-200),Sultan Pur Majra,Tier-3,2024-01-02
+53,"Lad, Zacharia and Mitra",Logistics,Small (50-200),Firozabad,Tier-3,2023-09-19
+54,Prasad and Sons,Healthcare,Mid (200-1000),Dhule,Tier-2,2023-09-03
+55,Mistry Group,Cybersecurity,Mid (200-1000),Tirupati,Tier-2,2023-10-25
+56,"Varughese, Virk and Bakshi",Consulting,Startup (<50),Guwahati,Tier-2,2023-11-29
+57,Modi-Suri,Logistics,Mid (200-1000),Kottayam,Tier-2,2023-12-29
+58,Rana Group,Automotive,Enterprise (5000+),Morbi,Tier-1,2023-10-24
+59,Varkey and Sons,Financial Services,Startup (<50),Parbhani,Tier-3,2023-11-19
+60,"Wagle, Pandit and Raja",Manufacturing,Large (1000-5000),Madhyamgram,Tier-2,2023-12-28
+61,Pant LLC,Cybersecurity,Startup (<50),Khandwa,Tier-2,2023-09-11
+62,Pillay-Murthy,EdTech,Small (50-200),Kolkata,Tier-1,2023-08-01
+63,Goel-Gupta,Telecommunications,Mid (200-1000),Kadapa,Tier-2,2023-11-08
+64,"Devi, Nagarajan and Chokshi",Telecommunications,Startup (<50),Bhimavaram,Tier-3,2023-09-13
+65,Kari Ltd,EdTech,Enterprise (5000+),Erode,Tier-3,2023-07-05
+66,"Kara, Chauhan and Gopal",Automotive,Enterprise (5000+),Loni,Tier-3,2023-12-05
+67,Banerjee-Khare,Financial Services,Mid (200-1000),Guwahati,Tier-3,2024-02-11
+68,Narasimhan PLC,Consulting,Small (50-200),Panchkula,Tier-2,2024-03-18
+69,"Bath, Raman and Shroff",Logistics,Small (50-200),Raurkela Industrial Township,Tier-3,2023-12-15
+70,Nagar and Sons,EdTech,Startup (<50),Jamalpur,Tier-2,2024-03-16
+71,"Rajagopalan, Gopal and Chowdhury",EdTech,Large (1000-5000),Agra,Tier-3,2024-03-23
+72,Tiwari Group,Consulting,Small (50-200),Jammu,Tier-2,2023-11-15
+73,"Ghosh, Buch and Chandra",Consulting,Startup (<50),Gorakhpur,Tier-3,2023-06-07
+74,"Gokhale, Sharma and Modi",Information Technology,Small (50-200),Arrah,Tier-3,2023-09-26
+75,"Thaker, Dey and Swamy",Cybersecurity,Mid (200-1000),Parbhani,Tier-3,2023-09-21
+76,Virk-Rajagopalan,Telecommunications,Mid (200-1000),Motihari,Tier-3,2023-11-09
+77,"Walla, Gokhale and Bhardwaj",E-Commerce,Startup (<50),Loni,Tier-2,2023-09-02
+78,Loyal LLC,FMCG,Enterprise (5000+),Kanpur,Tier-2,2023-12-20
+79,Chandra Group,Cybersecurity,Mid (200-1000),Varanasi,Tier-2,2023-10-18
+80,Khalsa-Johal,Automotive,Large (1000-5000),Hindupur,Tier-3,2023-10-10
+81,"Zacharia, Naik and Sha",Logistics,Mid (200-1000),Srinagar,Tier-3,2023-08-11
+82,Goda Ltd,Financial Services,Enterprise (5000+),Panihati,Tier-3,2023-06-05
+83,Saini-Varty,FMCG,Mid (200-1000),Nagaon,Tier-3,2023-08-21
+84,Dhillon Ltd,E-Commerce,Startup (<50),Mysore,Tier-2,2023-08-05
+85,Mahajan and Sons,EdTech,Enterprise (5000+),Amroha,Tier-2,2023-07-18
+86,Baral Inc,Cybersecurity,Mid (200-1000),Gurgaon,Tier-3,2023-10-14
+87,Kapadia PLC,EdTech,Small (50-200),Nagaon,Tier-2,2023-11-28
+88,"Barman, Solanki and Pall",Telecommunications,Mid (200-1000),Eluru,Tier-2,2024-03-27
+89,"Mall, Mani and Jayaraman",Logistics,Startup (<50),Ulhasnagar,Tier-2,2023-12-06
+90,"Hayre, Guha and Bali",Cybersecurity,Startup (<50),Tirupati,Tier-2,2023-09-10
+91,Halder and Sons,Telecommunications,Small (50-200),Hubli–Dharwad,Tier-3,2023-08-06
+92,"Baral, Mukhopadhyay and Bera",Healthcare,Startup (<50),Buxar,Tier-3,2024-02-04
+93,Madan-Bansal,Consulting,Mid (200-1000),Panihati,Tier-2,2023-12-29
+94,Devi-Brahmbhatt,Information Technology,Mid (200-1000),Bhiwani,Tier-3,2023-10-18
+95,Dalal-Prabhu,Financial Services,Startup (<50),Kishanganj,Tier-2,2023-10-24
+96,Golla LLC,E-Commerce,Startup (<50),Sambalpur,Tier-3,2024-01-06
+97,"Edwin, Peri and Purohit",Manufacturing,Mid (200-1000),Bareilly,Tier-2,2023-09-18
+98,Brar-Setty,Information Technology,Startup (<50),Arrah,Tier-1,2023-09-03
+99,"Manne, Chakraborty and Kibe",FMCG,Enterprise (5000+),Patna,Tier-1,2024-01-28
+100,"Chokshi, Pillay and Bir",Information Technology,Enterprise (5000+),Ambattur,Tier-2,2024-03-06
+101,Barad Inc,Financial Services,Large (1000-5000),Thoothukudi,Tier-2,2023-09-21
+102,"Chowdhury, Chokshi and Kulkarni",Telecommunications,Small (50-200),Muzaffarnagar,Tier-2,2023-08-19
+103,Devan-Krishnamurthy,E-Commerce,Large (1000-5000),Jabalpur,Tier-3,2024-03-13
+104,Ram-Dasgupta,E-Commerce,Large (1000-5000),Karimnagar,Tier-3,2023-08-02
+105,Rajagopalan-Puri,Information Technology,Small (50-200),Phusro,Tier-2,2023-09-11
+106,Sastry and Sons,EdTech,Large (1000-5000),Naihati,Tier-2,2023-08-16
+107,Murthy-Sahota,Manufacturing,Enterprise (5000+),Phusro,Tier-2,2023-09-06
+108,Chander and Sons,FMCG,Mid (200-1000),Gangtok,Tier-2,2023-08-18
+109,Minhas Ltd,E-Commerce,Small (50-200),Madurai,Tier-2,2023-12-07
+110,Srinivas and Sons,Information Technology,Mid (200-1000),Gorakhpur,Tier-3,2023-07-15
+111,"Tak, Pandit and Balan",Cybersecurity,Mid (200-1000),Danapur,Tier-3,2023-11-04
+112,"Shankar, Hora and Kohli",FMCG,Large (1000-5000),Raiganj,Tier-3,2023-12-19
+113,Palla-Modi,E-Commerce,Mid (200-1000),Haridwar,Tier-3,2024-03-12
+114,Sidhu LLC,Manufacturing,Small (50-200),Bhalswa Jahangir Pur,Tier-2,2023-06-14
+115,Shetty-Hegde,Telecommunications,Large (1000-5000),Madurai,Tier-3,2024-01-08
+116,"Vyas, Raju and Sethi",Logistics,Startup (<50),Kurnool,Tier-2,2023-11-16
+117,"Sawhney, Divan and Raghavan",Healthcare,Startup (<50),Bhiwani,Tier-3,2023-06-28
+118,"Vyas, Iyer and Seth",Automotive,Mid (200-1000),Meerut,Tier-3,2024-01-26
+119,Mani LLC,Automotive,Large (1000-5000),Singrauli,Tier-2,2023-09-17
+120,Parikh-Bhatt,Logistics,Mid (200-1000),Coimbatore,Tier-2,2023-10-29
+121,Dhingra-Sarraf,Telecommunications,Small (50-200),Muzaffarnagar,Tier-2,2023-12-24
+122,"Nori, Bera and Grover",Telecommunications,Startup (<50),Farrukhabad,Tier-3,2023-06-13
+123,Chaudhry Group,Information Technology,Small (50-200),Chandigarh,Tier-2,2024-01-11
+124,"Vig, Vig and De",Automotive,Small (50-200),Mango,Tier-2,2023-08-19
+125,Doshi LLC,Manufacturing,Enterprise (5000+),Sasaram,Tier-2,2023-11-03
+126,Hegde LLC,Consulting,Small (50-200),Ajmer,Tier-3,2024-01-07
+127,"Bhandari, Sarna and Dara",Consulting,Startup (<50),Ulhasnagar,Tier-3,2023-12-11
+128,"Khare, Balasubramanian and Dugar",FMCG,Small (50-200),Kakinada,Tier-2,2023-11-06
+129,"Arora, Aggarwal and Singh",Cybersecurity,Large (1000-5000),Kamarhati,Tier-1,2024-03-14
+130,Mane PLC,Healthcare,Large (1000-5000),Agartala,Tier-2,2024-01-07
+131,Mall-Bhasin,Logistics,Startup (<50),Salem,Tier-2,2023-06-03
+132,Sem LLC,Logistics,Mid (200-1000),Pimpri-Chinchwad,Tier-3,2024-03-16
+133,Nazareth-Kumer,Logistics,Small (50-200),Ranchi,Tier-2,2023-11-06
+134,Sidhu-Gole,Healthcare,Enterprise (5000+),Jamnagar,Tier-1,2024-02-21
+135,"Kulkarni, Mohan and Karpe",Consulting,Startup (<50),Aurangabad,Tier-2,2024-02-14
+136,"Venkataraman, Edwin and Issac",E-Commerce,Small (50-200),Kolhapur,Tier-3,2023-11-30
+137,Palla and Sons,Cybersecurity,Small (50-200),Kadapa,Tier-2,2023-06-09
+138,Kalita and Sons,Automotive,Startup (<50),Nashik,Tier-3,2023-11-15
+139,Tiwari Group,EdTech,Large (1000-5000),Gandhinagar,Tier-2,2024-03-23
+140,Randhawa Ltd,E-Commerce,Small (50-200),Etawah,Tier-2,2023-11-19
+141,Bhagat-Varkey,Logistics,Mid (200-1000),Berhampore,Tier-2,2024-01-05
+142,"Sastry, Date and Chakrabarti",E-Commerce,Small (50-200),Rajahmundry,Tier-3,2024-03-19
+143,"Mittal, Sunder and Bhat",Telecommunications,Small (50-200),Meerut,Tier-1,2023-09-03
+144,Ganesh Group,Consulting,Mid (200-1000),Udupi,Tier-2,2023-12-12
+145,Andra Ltd,FMCG,Small (50-200),Berhampur,Tier-1,2023-08-14
+146,"Gade, Pillay and Pillai",Healthcare,Small (50-200),Eluru,Tier-2,2023-08-13
+147,"Kar, Buch and Palan",EdTech,Startup (<50),Noida,Tier-3,2024-01-16
+148,Bassi-Kapadia,Cybersecurity,Small (50-200),Hospet,Tier-3,2023-08-21
+149,Dave-Saha,Telecommunications,Small (50-200),Kurnool,Tier-3,2023-10-04
+150,Gulati Group,Logistics,Startup (<50),Bhusawal,Tier-3,2023-11-03
+151,Pai PLC,Cybersecurity,Small (50-200),Yamunanagar,Tier-3,2023-12-29
+152,Atwal-Deshpande,Automotive,Mid (200-1000),Salem,Tier-2,2023-08-24
+153,Narayanan-Bath,Telecommunications,Mid (200-1000),Pune,Tier-3,2023-06-29
+154,Konda-Narayanan,Cybersecurity,Startup (<50),Vasai-Virar,Tier-1,2023-10-17
+155,Goel-Dave,Telecommunications,Startup (<50),Raurkela Industrial Township,Tier-3,2023-08-30
+156,Dugar Inc,Healthcare,Startup (<50),Chapra,Tier-2,2023-10-02
+157,"Sahota, Muni and Madan",Manufacturing,Mid (200-1000),Gwalior,Tier-2,2023-10-07
+158,Kari LLC,Consulting,Enterprise (5000+),Kadapa,Tier-3,2023-12-31
+159,Dutta PLC,Consulting,Enterprise (5000+),Gandhinagar,Tier-2,2023-07-24
+160,"Ratti, Behl and Radhakrishnan",Information Technology,Enterprise (5000+),Anantapur,Tier-3,2023-11-28
+161,Sahni Ltd,Financial Services,Mid (200-1000),Tiruppur,Tier-3,2023-10-31
+162,"Venkataraman, Char and Venkataraman",FMCG,Startup (<50),Kottayam,Tier-2,2023-12-15
+163,Vora-Raghavan,Financial Services,Enterprise (5000+),Nandyal,Tier-2,2024-03-06
+164,Borah-Borde,Information Technology,Mid (200-1000),Amaravati,Tier-3,2023-12-11
+165,Kibe and Sons,Automotive,Enterprise (5000+),Hyderabad,Tier-3,2023-12-20
+166,Rao-Gole,E-Commerce,Mid (200-1000),Ongole,Tier-2,2024-02-13
+167,Chadha Group,Automotive,Small (50-200),Chinsurah,Tier-2,2023-12-15
+168,Nagy PLC,Cybersecurity,Small (50-200),Machilipatnam,Tier-1,2024-02-22
+169,"Biswas, Parmer and Dora",Cybersecurity,Small (50-200),Udupi,Tier-3,2024-02-23
+170,Badal Inc,Telecommunications,Small (50-200),Haldia,Tier-3,2023-08-26
+171,Sibal-Narang,Manufacturing,Large (1000-5000),Hosur,Tier-1,2023-10-07
+172,Sridhar and Sons,FMCG,Startup (<50),Unnao,Tier-3,2023-10-09
+173,Seshadri-Jayaraman,Information Technology,Small (50-200),Sri Ganganagar,Tier-2,2023-10-04
+174,"Gupta, Ravi and Nair",Logistics,Mid (200-1000),Anantapuram,Tier-3,2023-12-02
+175,"Varughese, Nayar and Vala",Financial Services,Mid (200-1000),Saharsa,Tier-2,2024-02-22
+176,Zachariah-Sinha,Consulting,Mid (200-1000),Udaipur,Tier-3,2023-11-13
+177,Soni-Merchant,Consulting,Small (50-200),Berhampur,Tier-3,2023-07-15
+178,Yogi Group,Healthcare,Large (1000-5000),Jhansi,Tier-3,2023-11-01
+179,Chauhan-Kulkarni,Manufacturing,Small (50-200),Guntakal,Tier-3,2023-06-25
+180,Chopra Inc,Automotive,Mid (200-1000),Orai,Tier-3,2024-03-03
+181,"Sahota, Grewal and Chowdhury",Healthcare,Small (50-200),Patiala,Tier-3,2023-09-29
+182,Patla-Sangha,Financial Services,Small (50-200),Orai,Tier-1,2024-03-05
+183,"Seth, Gill and Bandi",Healthcare,Mid (200-1000),Mehsana,Tier-2,2024-03-05
+184,"Shroff, Ganesh and Iyengar",Information Technology,Mid (200-1000),Jamnagar,Tier-2,2023-08-02
+185,"Bumb, Varghese and Ghose",Consulting,Startup (<50),Giridih,Tier-3,2024-03-23
+186,"Patla, Mani and Bahl",Cybersecurity,Large (1000-5000),Aurangabad,Tier-2,2023-09-06
+187,"Balakrishnan, Kar and Viswanathan",Manufacturing,Mid (200-1000),Salem,Tier-3,2024-01-27
+188,Chandran PLC,Consulting,Mid (200-1000),Bardhaman,Tier-2,2024-03-26
+189,"Mann, Raval and Joshi",Financial Services,Mid (200-1000),Allahabad,Tier-2,2023-08-09
+190,Sehgal and Sons,Logistics,Mid (200-1000),Dharmavaram,Tier-3,2023-09-13
+191,"Dube, Suri and Mody",Telecommunications,Large (1000-5000),Kollam,Tier-1,2024-02-08
+192,Dutt Inc,FMCG,Startup (<50),Saharanpur,Tier-2,2023-10-05
+193,"Joshi, Basak and Roy",Logistics,Startup (<50),Thane,Tier-3,2024-03-09
+194,Nagar Inc,Information Technology,Small (50-200),Kharagpur,Tier-3,2023-07-17
+195,Kanda LLC,Logistics,Mid (200-1000),Patiala,Tier-3,2023-08-20
+196,Kaul PLC,E-Commerce,Mid (200-1000),Jehanabad,Tier-2,2023-06-15
+197,Basak Ltd,Financial Services,Large (1000-5000),Jhansi,Tier-3,2023-12-15
+198,Bedi and Sons,Healthcare,Enterprise (5000+),Jalgaon,Tier-3,2023-07-20
+199,Natt Ltd,Automotive,Startup (<50),Begusarai,Tier-2,2023-12-05
+200,"Gade, Mann and Kapur",E-Commerce,Mid (200-1000),Uluberia,Tier-1,2023-06-16
+201,Nori-Aurora,Information Technology,Mid (200-1000),Jamalpur,Tier-3,2023-08-18
+202,Rout-Memon,Healthcare,Mid (200-1000),Karimnagar,Tier-3,2024-03-23
+203,Amble-Kala,Financial Services,Startup (<50),Silchar,Tier-2,2023-12-04
+204,Mammen-Nadkarni,E-Commerce,Startup (<50),Amravati,Tier-3,2023-09-19
+205,"Om, Sridhar and Mohanty",Financial Services,Small (50-200),Dewas,Tier-2,2023-09-08
+206,Srinivasan-Prabhakar,Healthcare,Mid (200-1000),Durg,Tier-2,2023-12-20
+207,"Korpal, Dubey and Soman",Logistics,Enterprise (5000+),Thiruvananthapuram,Tier-2,2023-09-20
+208,Raghavan Inc,Logistics,Mid (200-1000),New Delhi,Tier-2,2023-07-05
+209,Bhasin Ltd,Manufacturing,Mid (200-1000),Kochi,Tier-3,2023-06-03
+210,Dube Inc,FMCG,Startup (<50),Bangalore,Tier-3,2024-03-10
+211,Kala-Som,E-Commerce,Startup (<50),Etawah,Tier-1,2023-07-11
+212,Manda and Sons,E-Commerce,Enterprise (5000+),Surendranagar Dudhrej,Tier-3,2024-02-04
+213,Krishna Inc,Information Technology,Mid (200-1000),Aizawl,Tier-2,2023-09-02
+214,"Bassi, Sastry and Gaba",Healthcare,Startup (<50),Bulandshahr,Tier-1,2023-08-02
+215,"Chaudhary, Srivastava and Choudhury",Automotive,Startup (<50),Tumkur,Tier-3,2024-01-05
+216,Bhagat Ltd,Telecommunications,Mid (200-1000),Nizamabad,Tier-2,2023-09-04
+217,Sidhu LLC,Information Technology,Small (50-200),Jaunpur,Tier-3,2023-07-28
+218,Swaminathan-Upadhyay,E-Commerce,Mid (200-1000),Mira-Bhayandar,Tier-3,2023-11-26
+219,Dalal-Basu,FMCG,Mid (200-1000),Bhiwani,Tier-1,2023-06-10
+220,Thakur-Subramanian,Healthcare,Startup (<50),Solapur,Tier-2,2023-07-21
+221,Ramesh Group,Logistics,Large (1000-5000),Pallavaram,Tier-2,2024-01-20
+222,Om-Kalita,Telecommunications,Startup (<50),Yamunanagar,Tier-2,2023-11-11
+223,Sibal PLC,Consulting,Small (50-200),Kalyan-Dombivli,Tier-1,2024-03-21
+224,Raghavan-Pingle,Cybersecurity,Startup (<50),Guwahati,Tier-3,2023-06-08
+225,Mangal-Bhasin,Information Technology,Large (1000-5000),Saharanpur,Tier-3,2023-06-03
+226,"Dixit, Saran and Doctor",Cybersecurity,Small (50-200),Malda,Tier-3,2023-07-24
+227,Khosla-Ray,Logistics,Small (50-200),Machilipatnam,Tier-2,2024-03-24
+228,"Anand, Gaba and Mohanty",Logistics,Startup (<50),Salem,Tier-2,2023-07-11
+229,"Mani, Peri and Nadig",Telecommunications,Small (50-200),Serampore,Tier-3,2023-12-10
+230,Choudhury Ltd,EdTech,Small (50-200),Tiruvottiyur,Tier-2,2023-09-17
+231,Pillai-Varma,E-Commerce,Enterprise (5000+),Chapra,Tier-2,2023-10-29
+232,"Wable, Doshi and Chander",Manufacturing,Large (1000-5000),Gandhidham,Tier-2,2024-02-27
+233,Patel Ltd,Healthcare,Large (1000-5000),Farrukhabad,Tier-3,2023-10-10
+234,Devi-Pant,Healthcare,Enterprise (5000+),Bahraich,Tier-2,2024-02-17
+235,Kala Inc,Telecommunications,Mid (200-1000),Pondicherry,Tier-2,2023-07-29
+236,Menon-Kannan,EdTech,Small (50-200),Dewas,Tier-1,2023-07-08
+237,Kara-Sood,EdTech,Mid (200-1000),Karawal Nagar,Tier-3,2023-10-24
+238,"Arora, Tiwari and Som",Cybersecurity,Startup (<50),Panvel,Tier-2,2024-02-08
+239,"Jani, Varghese and Madan",Manufacturing,Small (50-200),Haldia,Tier-3,2024-01-09
+240,"Sunder, Dara and Pau",FMCG,Enterprise (5000+),Sikar,Tier-1,2023-07-30
+241,"Dhawan, Mittal and Balan",Financial Services,Large (1000-5000),Kulti,Tier-3,2024-01-25
+242,"Kalita, Nayar and Chakrabarti",Logistics,Startup (<50),Ajmer,Tier-3,2023-06-30
+243,"Ravel, Kuruvilla and Sidhu",Cybersecurity,Small (50-200),Karaikudi,Tier-3,2024-03-09
+244,"Bera, Jha and Saran",Telecommunications,Large (1000-5000),Eluru,Tier-2,2023-06-06
+245,Chawla-Shankar,E-Commerce,Mid (200-1000),Akola,Tier-2,2024-02-03
+246,Bajwa and Sons,E-Commerce,Small (50-200),Gorakhpur,Tier-1,2024-02-28
+247,"Keer, Bath and Dyal",E-Commerce,Small (50-200),Lucknow,Tier-3,2023-06-17
+248,Mallick LLC,Manufacturing,Small (50-200),Solapur,Tier-1,2023-06-28
+249,Deshmukh-Mandal,Information Technology,Small (50-200),Aizawl,Tier-2,2023-09-30
+250,Bala PLC,Logistics,Small (50-200),Ambattur,Tier-3,2024-02-22
+251,Datta-De,Information Technology,Startup (<50),Berhampore,Tier-3,2024-03-06
+252,Mittal and Sons,Cybersecurity,Startup (<50),Rajahmundry,Tier-2,2023-09-12
+253,Pandey Group,Manufacturing,Startup (<50),Jaipur,Tier-2,2024-03-17
+254,Yohannan-Bhatia,Logistics,Small (50-200),Panihati,Tier-2,2023-07-29
+255,Balakrishnan Group,E-Commerce,Mid (200-1000),Tezpur,Tier-2,2023-09-13
+256,"Gera, Thakkar and Mangal",E-Commerce,Startup (<50),Kollam,Tier-3,2023-07-28
+257,"Narayanan, Nayar and Om",Consulting,Mid (200-1000),Nizamabad,Tier-3,2023-06-07
+258,Dhillon Group,Information Technology,Large (1000-5000),Katihar,Tier-2,2023-12-09
+259,Sem LLC,FMCG,Small (50-200),Delhi,Tier-3,2023-09-18
+260,Chanda PLC,E-Commerce,Mid (200-1000),Dibrugarh,Tier-3,2023-10-14
+261,Mammen Group,Cybersecurity,Small (50-200),Amaravati,Tier-2,2023-07-09
+262,"Bassi, Pant and Chahal",Automotive,Large (1000-5000),Saharsa,Tier-3,2023-09-28
+263,Varughese-Virk,E-Commerce,Startup (<50),Serampore,Tier-1,2023-11-27
+264,"Biswas, Goyal and Bhandari",E-Commerce,Startup (<50),Bhind,Tier-3,2024-01-17
+265,Narain PLC,Consulting,Startup (<50),Srinagar,Tier-3,2023-08-22
+266,Cherian-Sani,EdTech,Startup (<50),Agra,Tier-1,2023-08-15
+267,Palla-Savant,Logistics,Startup (<50),Moradabad,Tier-2,2023-06-22
+268,Ghose PLC,E-Commerce,Mid (200-1000),Hubli–Dharwad,Tier-3,2023-07-16
+269,Prasad-Devi,Healthcare,Mid (200-1000),Bilaspur,Tier-2,2023-07-28
+270,"Deep, Venkatesh and Raman",Financial Services,Small (50-200),Fatehpur,Tier-2,2024-01-10
+271,Dada-Basu,Telecommunications,Small (50-200),Jammu,Tier-2,2024-03-15
+272,Radhakrishnan PLC,EdTech,Mid (200-1000),Suryapet,Tier-3,2023-10-27
+273,"Sekhon, Wali and Bhatia",E-Commerce,Mid (200-1000),Nagpur,Tier-2,2024-02-26
+274,More-Swamy,Cybersecurity,Startup (<50),Meerut,Tier-2,2023-09-19
+275,Deol-Chakraborty,E-Commerce,Large (1000-5000),Madhyamgram,Tier-2,2023-12-15
+276,Bandi-Zacharia,Telecommunications,Large (1000-5000),Berhampur,Tier-2,2023-06-14
+277,"Dhawan, Tank and Shankar",Financial Services,Small (50-200),Gudivada,Tier-2,2023-07-13
+278,"Krishnamurthy, Guha and Dash",Consulting,Small (50-200),Dehradun,Tier-3,2024-01-15
+279,Batra-Ram,Automotive,Large (1000-5000),Chandrapur,Tier-3,2023-07-27
+280,Rastogi Group,Financial Services,Startup (<50),Kumbakonam,Tier-3,2024-01-08
+281,Mander Inc,Telecommunications,Large (1000-5000),Hazaribagh,Tier-2,2024-03-01
+282,Karan-Narain,Consulting,Mid (200-1000),Chandrapur,Tier-3,2023-08-09
+283,Kari Inc,FMCG,Small (50-200),Bardhaman,Tier-2,2023-06-04
+284,Das PLC,E-Commerce,Small (50-200),Latur,Tier-2,2023-11-11
+285,Rao-Brar,Financial Services,Startup (<50),Bongaigaon,Tier-2,2023-11-18
+286,Nagarajan-Verma,Healthcare,Large (1000-5000),Nagpur,Tier-2,2024-02-15
+287,Yadav-Saha,Consulting,Startup (<50),Hosur,Tier-3,2023-10-10
+288,Ganesan LLC,E-Commerce,Mid (200-1000),Pondicherry,Tier-2,2024-01-08
+289,Dua-Rajan,Telecommunications,Large (1000-5000),Agartala,Tier-2,2023-09-28
+290,"Khalsa, Sodhi and Natt",Information Technology,Large (1000-5000),Sikar,Tier-3,2023-08-27
+291,Ramesh Ltd,E-Commerce,Small (50-200),Baranagar,Tier-3,2023-06-21
+292,Kala LLC,FMCG,Startup (<50),Dharmavaram,Tier-3,2024-03-20
+293,"Palla, Seshadri and Kapadia",Manufacturing,Startup (<50),Mumbai,Tier-1,2023-07-13
+294,"Som, Master and Sabharwal",Telecommunications,Startup (<50),Mira-Bhayandar,Tier-2,2023-11-21
+295,Venkatesh-Kata,Healthcare,Mid (200-1000),Hosur,Tier-2,2023-06-12
+296,Chada Inc,Manufacturing,Startup (<50),Uluberia,Tier-3,2023-06-07
+297,Rattan LLC,EdTech,Startup (<50),Muzaffarpur,Tier-2,2023-09-10
+298,Mistry Ltd,Financial Services,Small (50-200),Vellore,Tier-3,2024-02-23
+299,"Doshi, Majumdar and Arya",Manufacturing,Small (50-200),Kamarhati,Tier-3,2023-07-09
+300,"Nori, Sant and Lall",Information Technology,Startup (<50),Dehri,Tier-3,2023-11-23
+301,Verma-Arya,Information Technology,Startup (<50),Durgapur,Tier-2,2024-01-16
+302,Gandhi LLC,EdTech,Large (1000-5000),Durg,Tier-2,2023-11-11
+303,"Gupta, Dhar and Kapur",Information Technology,Small (50-200),Dehradun,Tier-3,2024-02-26
+304,"Tripathi, Gandhi and Munshi",Manufacturing,Small (50-200),Ozhukarai,Tier-3,2024-02-12
+305,Char LLC,EdTech,Startup (<50),Gandhinagar,Tier-3,2023-08-23
+306,"Mahajan, Ben and Atwal",Automotive,Startup (<50),Pali,Tier-3,2023-10-28
+307,Mane-Sibal,Consulting,Small (50-200),Chapra,Tier-2,2024-02-06
+308,"Bobal, Dora and Banerjee",Telecommunications,Mid (200-1000),Jabalpur,Tier-2,2023-07-02
+309,Saran Ltd,Healthcare,Enterprise (5000+),Nagaon,Tier-2,2024-02-10
+310,Batta Ltd,Automotive,Enterprise (5000+),Serampore,Tier-3,2023-10-07
+311,"Raman, Mand and D’Alia",Consulting,Large (1000-5000),Ahmednagar,Tier-3,2024-01-18
+312,"Shah, Andra and Srinivas",FMCG,Large (1000-5000),Dewas,Tier-3,2024-02-07
+313,"Dhaliwal, Ghose and Chandra",Information Technology,Large (1000-5000),Ozhukarai,Tier-2,2023-06-04
+314,Bhavsar-Dyal,Automotive,Mid (200-1000),Kavali,Tier-3,2023-09-25
+315,"Srivastava, Palla and Ganesan",Information Technology,Startup (<50),Chandrapur,Tier-2,2024-01-17
+316,Bhat-Sastry,Consulting,Enterprise (5000+),Bharatpur,Tier-3,2023-10-18
+317,"Mann, Magar and Sha",Logistics,Startup (<50),Serampore,Tier-2,2023-10-29
+318,Deep Ltd,Information Technology,Mid (200-1000),Mira-Bhayandar,Tier-2,2023-11-21
+319,Ray Ltd,Automotive,Mid (200-1000),Pondicherry,Tier-2,2023-09-27
+320,Atwal Group,EdTech,Mid (200-1000),Vasai-Virar,Tier-3,2023-11-15
+321,"Mittal, Kakar and Aggarwal",Cybersecurity,Enterprise (5000+),Hosur,Tier-2,2023-06-04
+322,Saxena-Chad,Financial Services,Startup (<50),Kakinada,Tier-3,2024-02-10
+323,Kuruvilla-Dara,E-Commerce,Mid (200-1000),Aligarh,Tier-2,2024-01-13
+324,Rama Inc,E-Commerce,Enterprise (5000+),Aizawl,Tier-3,2024-01-19
+325,Jain Group,Logistics,Startup (<50),Amravati,Tier-2,2024-01-13
+326,Singhal Ltd,Healthcare,Mid (200-1000),Berhampore,Tier-1,2023-08-10
+327,Chauhan Group,Automotive,Small (50-200),Ranchi,Tier-3,2023-09-04
+328,Krishna Inc,FMCG,Enterprise (5000+),Sambhal,Tier-2,2023-06-14
+329,Naidu Group,Financial Services,Startup (<50),Gudivada,Tier-3,2024-03-07
+330,Om-Dutt,Healthcare,Mid (200-1000),Patna,Tier-3,2023-08-06
+331,Ratti and Sons,Information Technology,Small (50-200),Bhusawal,Tier-2,2023-12-02
+332,"Sani, Srivastava and Barman",Financial Services,Small (50-200),Ajmer,Tier-2,2023-07-17
+333,Shankar PLC,E-Commerce,Small (50-200),Raichur,Tier-3,2023-07-03
+334,Hans Ltd,Healthcare,Mid (200-1000),Patna,Tier-2,2023-10-09
+335,Chad Group,Information Technology,Mid (200-1000),Tirupati,Tier-1,2024-01-05
+336,Rattan-Mangat,Healthcare,Small (50-200),Ahmedabad,Tier-2,2023-12-14
+337,Chander Group,Automotive,Small (50-200),Gandhinagar,Tier-3,2023-06-16
+338,Hans and Sons,Financial Services,Small (50-200),Mysore,Tier-3,2023-06-21
+339,Kulkarni LLC,EdTech,Large (1000-5000),Rajahmundry,Tier-3,2023-06-16
+340,Morar-Pal,E-Commerce,Mid (200-1000),Guna,Tier-2,2023-11-03
+341,"Sankaran, Toor and Gandhi",Information Technology,Enterprise (5000+),Kamarhati,Tier-1,2023-12-23
+342,Subramanian-Bassi,EdTech,Large (1000-5000),Kolhapur,Tier-2,2023-07-03
+343,Sant-Gopal,Financial Services,Mid (200-1000),Madanapalle,Tier-2,2024-01-27
+344,"Swamy, Varughese and Sane",Logistics,Large (1000-5000),Mira-Bhayandar,Tier-3,2023-10-18
+345,Nayar Ltd,Telecommunications,Mid (200-1000),Ludhiana,Tier-2,2023-07-10
+346,Sule-Dey,Cybersecurity,Small (50-200),Ahmednagar,Tier-2,2023-07-16
+347,Anand-Virk,Telecommunications,Small (50-200),Naihati,Tier-2,2023-06-26
+348,Gupta and Sons,Logistics,Startup (<50),Hindupur,Tier-2,2023-12-19
+349,"Varty, Sahota and Devi",Manufacturing,Small (50-200),Nangloi Jat,Tier-2,2024-03-03
+350,"Balasubramanian, Devi and Tandon",EdTech,Mid (200-1000),Motihari,Tier-2,2024-01-12
+351,"Ghose, Yohannan and Grewal",FMCG,Small (50-200),Vasai-Virar,Tier-1,2024-01-10
+352,Buch Ltd,Automotive,Small (50-200),Tezpur,Tier-2,2024-03-11
+353,"Chandran, Devan and Khosla",Consulting,Small (50-200),Raebareli,Tier-3,2023-09-08
+354,"Palla, Palan and Hans",Logistics,Large (1000-5000),Nagercoil,Tier-2,2023-07-16
+355,Sen LLC,E-Commerce,Startup (<50),Sagar,Tier-3,2023-10-09
+356,More-Sani,Information Technology,Small (50-200),Vasai-Virar,Tier-2,2024-01-16
+357,"Mane, Shah and Chawla",Cybersecurity,Small (50-200),Ambattur,Tier-2,2023-06-13
+358,"Pradhan, Chand and Sahni",Manufacturing,Startup (<50),Unnao,Tier-3,2023-10-31
+359,Lata Inc,Automotive,Small (50-200),Sambalpur,Tier-3,2023-07-12
+360,"Krishnamurthy, Shankar and Seshadri",Healthcare,Large (1000-5000),Jammu,Tier-2,2024-03-04
+361,Kara and Sons,Logistics,Small (50-200),Gandhinagar,Tier-1,2024-02-22
+362,Mander and Sons,Financial Services,Small (50-200),Ratlam,Tier-2,2024-03-22
+363,Mitra-Walia,Information Technology,Startup (<50),Shimla,Tier-2,2023-08-03
+364,Chander LLC,Financial Services,Startup (<50),Gudivada,Tier-2,2023-10-19
+365,Srinivasan-Kar,EdTech,Startup (<50),Kurnool,Tier-3,2023-12-26
+366,Kunda Inc,Telecommunications,Enterprise (5000+),Hyderabad,Tier-2,2023-12-23
+367,Raju-Ganesh,Telecommunications,Small (50-200),Ongole,Tier-3,2024-01-11
+368,Om Inc,Consulting,Mid (200-1000),Alwar,Tier-1,2023-07-07
+369,Sood LLC,FMCG,Mid (200-1000),Tirunelveli,Tier-1,2023-11-21
+370,Keer-Peri,E-Commerce,Mid (200-1000),Meerut,Tier-3,2023-10-16
+371,Tank-Balakrishnan,FMCG,Mid (200-1000),Kulti,Tier-2,2023-12-22
+372,Kothari-Garde,Cybersecurity,Mid (200-1000),Ghaziabad,Tier-2,2023-06-15
+373,Zacharia Ltd,Financial Services,Mid (200-1000),Ozhukarai,Tier-2,2024-02-03
+374,Chadha-Prabhu,Information Technology,Enterprise (5000+),Bulandshahr,Tier-3,2024-03-17
+375,"Buch, Manne and Deo",E-Commerce,Small (50-200),Howrah,Tier-3,2023-07-19
+376,Ray-Buch,Telecommunications,Startup (<50),Aligarh,Tier-3,2024-01-03
+377,Bose-Kale,Manufacturing,Startup (<50),Pallavaram,Tier-3,2023-11-17
+378,Malhotra Group,Financial Services,Large (1000-5000),Guwahati,Tier-2,2024-02-03
+379,"Nagarajan, Ramachandran and Khosla",Telecommunications,Large (1000-5000),Gurgaon,Tier-2,2023-06-21
+380,"Bedi, Reddy and Saran",E-Commerce,Small (50-200),Jammu,Tier-3,2023-08-18
+381,Golla Inc,Logistics,Enterprise (5000+),Amaravati,Tier-2,2023-09-14
+382,"Vasa, Shankar and Kumar",Automotive,Mid (200-1000),Nadiad,Tier-2,2023-06-03
+383,"Khalsa, Naidu and Chaudry",Manufacturing,Enterprise (5000+),Vijayawada,Tier-3,2023-11-27
+384,Gupta LLC,Healthcare,Mid (200-1000),Bhiwandi,Tier-3,2023-11-04
+385,Deshpande Group,Telecommunications,Large (1000-5000),Tiruppur,Tier-3,2024-02-14
+386,"Handa, Barad and Barad",E-Commerce,Startup (<50),Sri Ganganagar,Tier-3,2024-01-12
+387,"Dhaliwal, Doshi and Karnik",Telecommunications,Mid (200-1000),Chennai,Tier-2,2023-08-09
+388,"Luthra, Raju and Kapadia",EdTech,Small (50-200),Bettiah,Tier-2,2023-09-06
+389,Saha PLC,Cybersecurity,Mid (200-1000),Ratlam,Tier-1,2023-08-16
+390,"Sami, Chahal and Sarkar",Information Technology,Startup (<50),Shimoga,Tier-2,2023-11-28
+391,"Basak, Date and Bhatnagar",Logistics,Large (1000-5000),Indore,Tier-2,2023-09-02
+392,Arora PLC,Automotive,Startup (<50),Jaunpur,Tier-2,2023-10-16
+393,Sanghvi and Sons,Automotive,Small (50-200),Sonipat,Tier-1,2024-03-15
+394,Sinha-Prakash,Automotive,Mid (200-1000),Dharmavaram,Tier-3,2024-01-29
+395,Pandit-Kurian,Healthcare,Small (50-200),Patna,Tier-2,2023-12-02
+396,"Narain, Dube and Gaba",Cybersecurity,Startup (<50),Ratlam,Tier-3,2024-02-13
+397,Mitter LLC,Telecommunications,Small (50-200),Pondicherry,Tier-2,2023-08-29
+398,"Raj, Sengupta and Bandi",Telecommunications,Startup (<50),Erode,Tier-1,2023-08-27
+399,Thakur Ltd,FMCG,Startup (<50),Tinsukia,Tier-3,2023-09-06
+400,Bora-Ravi,Healthcare,Small (50-200),Nagaon,Tier-1,2023-11-21
+401,Bhatnagar-Mand,Cybersecurity,Small (50-200),Gorakhpur,Tier-1,2024-01-28
+402,Vyas-Raghavan,Logistics,Small (50-200),Sri Ganganagar,Tier-1,2023-06-09
+403,Pant Group,E-Commerce,Mid (200-1000),Panipat,Tier-3,2023-10-09
+404,"Uppal, Nigam and Arora",Information Technology,Startup (<50),Thane,Tier-2,2023-10-03
+405,"Jhaveri, Thaman and Dhaliwal",FMCG,Startup (<50),Agartala,Tier-3,2024-02-13
+406,"Bhargava, Anand and Bhatti",Consulting,Mid (200-1000),Bardhaman,Tier-1,2024-01-03
+407,Gade Inc,Healthcare,Small (50-200),Davanagere,Tier-3,2024-02-26
+408,"Dutta, Kade and Agrawal",Manufacturing,Large (1000-5000),Panipat,Tier-1,2023-12-14
+409,"Sheth, Mani and Panchal",Manufacturing,Large (1000-5000),Shimoga,Tier-1,2024-02-29
+410,"Amble, Dasgupta and Bhakta",Manufacturing,Small (50-200),Ramagundam,Tier-2,2023-10-15
+411,"Batta, Din and Pradhan",E-Commerce,Enterprise (5000+),Jhansi,Tier-2,2024-01-19
+412,"Prasad, Shankar and Gaba",Healthcare,Small (50-200),Barasat,Tier-3,2024-03-26
+413,Rout-Sawhney,Automotive,Mid (200-1000),Erode,Tier-3,2023-09-28
+414,Krish-Desai,EdTech,Large (1000-5000),Moradabad,Tier-3,2023-12-19
+415,Mukhopadhyay-Vaidya,Logistics,Small (50-200),Bardhaman,Tier-1,2023-11-25
+416,Tak Ltd,E-Commerce,Enterprise (5000+),Srinagar,Tier-3,2023-10-01
+417,"Vala, Shroff and Dugar",FMCG,Startup (<50),Medininagar,Tier-1,2023-07-10
+418,"Narula, Varughese and Shah",Automotive,Small (50-200),Rewa,Tier-3,2024-03-10
+419,Rout-Parikh,Consulting,Startup (<50),Siliguri,Tier-3,2024-01-19
+420,Varty-Patel,Consulting,Startup (<50),Patna,Tier-3,2023-08-25
+421,Mander Group,E-Commerce,Startup (<50),Hospet,Tier-2,2024-01-29
+422,Bakshi LLC,Healthcare,Mid (200-1000),Chennai,Tier-3,2023-11-18
+423,Prabhakar and Sons,Healthcare,Small (50-200),Karnal,Tier-3,2023-09-29
+424,"Sarin, Singhal and Iyengar",Manufacturing,Large (1000-5000),Gaya,Tier-3,2023-06-02
+425,"Gopal, Sachdev and Thaman",Consulting,Enterprise (5000+),Kharagpur,Tier-3,2023-08-20
+426,Devan PLC,Information Technology,Mid (200-1000),Darbhanga,Tier-2,2023-07-24
+427,Mukhopadhyay and Sons,Consulting,Large (1000-5000),Ahmednagar,Tier-3,2024-01-04
+428,"Kashyap, Salvi and Badami",Healthcare,Startup (<50),Suryapet,Tier-3,2023-10-04
+429,Bajaj-Vaidya,Manufacturing,Mid (200-1000),Nangloi Jat,Tier-3,2023-07-01
+430,Talwar-Wali,Financial Services,Large (1000-5000),Davanagere,Tier-2,2023-10-13
+431,Madan-Manne,Cybersecurity,Small (50-200),New Delhi,Tier-2,2023-08-08
+432,Ghosh-Thaker,Financial Services,Small (50-200),Berhampur,Tier-3,2023-12-09
+433,Sinha-More,Consulting,Small (50-200),Bhatpara,Tier-1,2023-09-09
+434,Sandhu Group,Manufacturing,Startup (<50),Jamnagar,Tier-1,2023-11-23
+435,Kara-Narayan,E-Commerce,Startup (<50),North Dumdum,Tier-1,2023-12-30
+436,Dubey-Wagle,Healthcare,Mid (200-1000),Faridabad,Tier-2,2023-12-23
+437,Tara Ltd,E-Commerce,Mid (200-1000),Amaravati,Tier-3,2024-02-26
+438,Ramesh-Sangha,Automotive,Small (50-200),Amravati,Tier-3,2024-01-01
+439,Rout-Iyengar,E-Commerce,Mid (200-1000),Bahraich,Tier-3,2023-09-20
+440,"Patla, Devi and Om",Healthcare,Startup (<50),Berhampore,Tier-2,2023-12-04
+441,Rajagopal-Rai,Telecommunications,Mid (200-1000),Visakhapatnam,Tier-2,2023-06-17
+442,Garde Group,Manufacturing,Large (1000-5000),Bareilly,Tier-2,2023-10-20
+443,Shroff and Sons,Manufacturing,Startup (<50),Bathinda,Tier-2,2023-12-04
+444,Desai LLC,EdTech,Large (1000-5000),Kishanganj,Tier-3,2023-07-31
+445,Singh-Dewan,Cybersecurity,Mid (200-1000),Bikaner,Tier-2,2023-11-04
+446,Lalla Ltd,Healthcare,Mid (200-1000),Bokaro,Tier-2,2023-10-17
+447,"Chad, Dara and Bhasin",Manufacturing,Large (1000-5000),Baranagar,Tier-3,2023-08-15
+448,Sane PLC,Financial Services,Small (50-200),Berhampore,Tier-1,2023-07-10
+449,"Mane, Kurian and Sha",Financial Services,Startup (<50),Baranagar,Tier-3,2024-01-26
+450,"Gaba, Bassi and Palla",EdTech,Mid (200-1000),Kakinada,Tier-3,2023-10-14
+451,Ghosh Group,FMCG,Large (1000-5000),Burhanpur,Tier-2,2023-10-14
+452,"Ghosh, Cherian and Chaudhuri",Manufacturing,Enterprise (5000+),Nangloi Jat,Tier-2,2024-03-17
+453,"Sheth, Butala and Balan",EdTech,Mid (200-1000),Singrauli,Tier-3,2024-01-31
+454,"Malhotra, Sem and Kota",Logistics,Enterprise (5000+),Warangal,Tier-1,2023-10-26
+455,"Hegde, Dey and Sheth",E-Commerce,Startup (<50),Nandyal,Tier-3,2023-07-12
+456,"Pant, Gill and Sodhi",Logistics,Small (50-200),Ramgarh,Tier-2,2024-03-10
+457,Hayre Inc,Automotive,Large (1000-5000),Bijapur,Tier-3,2023-11-01
+458,Char-Garg,E-Commerce,Large (1000-5000),Tadepalligudem,Tier-3,2023-11-01
+459,"Chaudry, Sachdeva and Shanker",Consulting,Startup (<50),Munger,Tier-2,2023-09-30
+460,Koshy Group,Automotive,Startup (<50),Kota,Tier-2,2023-07-27
+461,"Dara, Chatterjee and Bajaj",EdTech,Enterprise (5000+),Panihati,Tier-2,2023-07-09
+462,Pall-Gara,E-Commerce,Small (50-200),Kottayam,Tier-3,2023-07-27
+463,Pillai-Dar,Financial Services,Mid (200-1000),Mango,Tier-3,2023-12-26
+464,"Bhatnagar, Agate and Prabhakar",Manufacturing,Mid (200-1000),Orai,Tier-2,2024-02-07
+465,"Wason, Jani and Morar",Logistics,Enterprise (5000+),Madhyamgram,Tier-2,2023-08-28
+466,"Magar, Chopra and Palan",Manufacturing,Large (1000-5000),Fatehpur,Tier-3,2023-12-16
+467,"Sawhney, Vasa and Bains",Manufacturing,Startup (<50),Motihari,Tier-2,2023-08-31
+468,Shroff-Reddy,FMCG,Large (1000-5000),Sonipat,Tier-2,2024-02-12
+469,"Ratti, Sengupta and Gandhi",Telecommunications,Small (50-200),Thiruvananthapuram,Tier-3,2023-08-28
+470,Raju-Bora,Manufacturing,Small (50-200),Sasaram,Tier-3,2024-01-12
+471,"Chatterjee, Swamy and Sood",Cybersecurity,Mid (200-1000),Pimpri-Chinchwad,Tier-2,2023-09-13
+472,"Dugar, Bhasin and Jhaveri",EdTech,Startup (<50),Deoghar,Tier-3,2023-09-18
+473,Kuruvilla-Choudhary,Logistics,Small (50-200),Hosur,Tier-2,2024-02-26
+474,"Merchant, Sethi and Madan",Telecommunications,Enterprise (5000+),Solapur,Tier-2,2023-12-09
+475,Iyengar-Vyas,Logistics,Startup (<50),Kottayam,Tier-3,2024-03-18
+476,Warrior-Sur,Financial Services,Enterprise (5000+),Shahjahanpur,Tier-2,2023-12-02
+477,"Edwin, Madan and Ramakrishnan",Healthcare,Mid (200-1000),Mysore,Tier-3,2023-06-02
+478,"Roy, Walla and Panchal",Information Technology,Large (1000-5000),Jabalpur,Tier-1,2024-01-24
+479,Chada and Sons,EdTech,Mid (200-1000),Nandyal,Tier-2,2023-08-01
+480,Buch LLC,Manufacturing,Startup (<50),Jorhat,Tier-3,2023-12-06
+481,Parmar PLC,Logistics,Startup (<50),Alwar,Tier-2,2023-07-09
+482,Ravi Ltd,Automotive,Small (50-200),Kolhapur,Tier-2,2023-09-21
+483,"Cheema, Nanda and Dalal",Manufacturing,Small (50-200),Rajpur Sonarpur,Tier-3,2024-02-01
+484,"Mangat, Oak and Chada",FMCG,Large (1000-5000),Bongaigaon,Tier-3,2023-08-30
+485,Vasa-Borde,Logistics,Mid (200-1000),Kolkata,Tier-3,2023-09-29
+486,"Varughese, Butala and Tank",Information Technology,Startup (<50),Jamshedpur,Tier-2,2023-11-21
+487,"Narain, Uppal and Sekhon",Telecommunications,Mid (200-1000),Firozabad,Tier-1,2024-03-12
+488,"Kade, Mann and Keer",E-Commerce,Small (50-200),Alappuzha,Tier-1,2023-10-12
+489,Minhas-Bhattacharyya,EdTech,Mid (200-1000),Unnao,Tier-1,2023-09-09
+490,Date and Sons,Financial Services,Startup (<50),Kakinada,Tier-2,2023-06-14
+491,"Tara, Ramakrishnan and Wali",Cybersecurity,Mid (200-1000),Anand,Tier-2,2024-02-13
+492,"Tandon, Goel and Maharaj",Financial Services,Small (50-200),Kumbakonam,Tier-3,2023-08-11
+493,Mukherjee Ltd,Manufacturing,Startup (<50),Raebareli,Tier-3,2023-12-25
+494,"Shukla, Nayar and Date",Manufacturing,Startup (<50),Ambarnath,Tier-1,2023-10-01
+495,Khurana-Sibal,Cybersecurity,Mid (200-1000),Pune,Tier-2,2024-01-31
+496,"Vaidya, Savant and Halder",Automotive,Mid (200-1000),Tiruvottiyur,Tier-1,2023-12-14
+497,"Sahni, Borde and Hari",E-Commerce,Enterprise (5000+),Katihar,Tier-2,2023-11-05
+498,Dhaliwal-Manne,Healthcare,Mid (200-1000),Solapur,Tier-3,2023-06-25
+499,"Prasad, Karnik and Palla",Logistics,Enterprise (5000+),Varanasi,Tier-3,2023-07-07
+500,"Shah, Sengupta and De",Manufacturing,Mid (200-1000),Kottayam,Tier-3,2023-12-30
+501,Cherian-Purohit,Information Technology,Small (50-200),Jalna,Tier-2,2024-01-04
+502,Sur-Varghese,Consulting,Mid (200-1000),Anand,Tier-2,2023-12-17
+503,Sinha LLC,Financial Services,Enterprise (5000+),Thrissur,Tier-2,2023-06-14
+504,Kaul-Das,Consulting,Large (1000-5000),Maheshtala,Tier-2,2023-12-29
+505,"Lad, Reddy and Ganesh",Healthcare,Mid (200-1000),Anand,Tier-2,2024-01-15
+506,Savant Inc,Manufacturing,Mid (200-1000),Mira-Bhayandar,Tier-2,2023-07-23
+507,Suri-Dar,E-Commerce,Small (50-200),Tiruchirappalli,Tier-2,2023-07-03
+508,Kapur PLC,Automotive,Startup (<50),Thrissur,Tier-3,2024-02-07
+509,Chacko Inc,FMCG,Startup (<50),Giridih,Tier-2,2023-06-19
+510,Sidhu-Kulkarni,Consulting,Small (50-200),Sonipat,Tier-3,2023-11-21
+511,Sunder Ltd,Information Technology,Startup (<50),Madanapalle,Tier-3,2024-01-04
+512,Raja-Goswami,Financial Services,Large (1000-5000),Jalgaon,Tier-2,2023-10-15
+513,"Goda, Jain and Suresh",Telecommunications,Mid (200-1000),Rewa,Tier-2,2023-07-13
+514,Sen PLC,EdTech,Small (50-200),Hubli–Dharwad,Tier-2,2024-03-24
+515,Bansal Group,Information Technology,Mid (200-1000),Karawal Nagar,Tier-2,2023-07-23
+516,Dhar Ltd,Financial Services,Mid (200-1000),Morbi,Tier-3,2023-08-24
+517,"Rout, Krishna and Kapur",EdTech,Small (50-200),Kishanganj,Tier-2,2023-06-02
+518,Sangha Ltd,E-Commerce,Large (1000-5000),Raurkela Industrial Township,Tier-1,2023-09-06
+519,"Mukhopadhyay, Dora and Sawhney",Financial Services,Startup (<50),Kavali,Tier-3,2023-12-30
+520,Kuruvilla-Chaudhary,Information Technology,Startup (<50),Sikar,Tier-2,2023-06-01
+521,Mall PLC,Manufacturing,Large (1000-5000),Jalandhar,Tier-3,2023-06-27
+522,Varma Ltd,E-Commerce,Small (50-200),Tadipatri,Tier-2,2024-02-02
+523,Tiwari-Divan,E-Commerce,Mid (200-1000),Bijapur,Tier-2,2024-03-12
+524,"Pall, Bhasin and Loyal",FMCG,Small (50-200),Jalgaon,Tier-3,2024-03-04
+525,Oommen Ltd,Consulting,Mid (200-1000),Gandhinagar,Tier-3,2024-02-17
+526,Dhaliwal Ltd,Healthcare,Mid (200-1000),Siliguri,Tier-1,2023-08-08
+527,Upadhyay-Tella,Financial Services,Enterprise (5000+),Sasaram,Tier-2,2023-08-28
+528,Bhatt and Sons,Information Technology,Small (50-200),Allahabad,Tier-2,2024-03-10
+529,Kala PLC,Consulting,Mid (200-1000),Chandrapur,Tier-3,2023-07-11
+530,Krishna PLC,Manufacturing,Enterprise (5000+),Kavali,Tier-2,2024-03-07
+531,"Shroff, Keer and Chadha",Manufacturing,Small (50-200),Panihati,Tier-2,2023-08-12
+532,Dube Ltd,EdTech,Startup (<50),Vijayanagaram,Tier-3,2023-06-19
+533,"Aggarwal, Rajagopalan and Khosla",Telecommunications,Mid (200-1000),Ambala,Tier-2,2023-12-20
+534,"Khalsa, Sagar and Oak",Consulting,Enterprise (5000+),Serampore,Tier-2,2024-01-18
+535,"Palla, Singhal and Agate",Automotive,Mid (200-1000),Surendranagar Dudhrej,Tier-2,2023-10-12
+536,Sodhi PLC,E-Commerce,Small (50-200),Rajpur Sonarpur,Tier-2,2023-06-17
+537,"Wadhwa, Shroff and Lala",Information Technology,Mid (200-1000),Mehsana,Tier-3,2023-07-05
+538,Sankar LLC,Manufacturing,Small (50-200),Chandrapur,Tier-3,2023-07-14
+539,"Dewan, Warrior and Raval",Manufacturing,Small (50-200),Kolkata,Tier-3,2023-10-17
+540,Buch Inc,E-Commerce,Mid (200-1000),Dehradun,Tier-3,2023-10-10
+541,"Bala, Bava and Goyal",Consulting,Mid (200-1000),Bhopal,Tier-1,2023-06-08
+542,Saha-Kohli,Logistics,Mid (200-1000),Katni,Tier-1,2024-01-30
+543,"Agarwal, Deol and Agrawal",Healthcare,Startup (<50),Bareilly,Tier-3,2024-02-06
+544,Hayre and Sons,E-Commerce,Small (50-200),Vasai-Virar,Tier-3,2023-10-05
+545,Pant and Sons,Cybersecurity,Startup (<50),Secunderabad,Tier-3,2024-02-29
+546,Bal and Sons,Consulting,Startup (<50),Thrissur,Tier-3,2023-07-05
+547,Deol-Krish,Cybersecurity,Enterprise (5000+),Kadapa,Tier-2,2023-11-29
+548,"Deshpande, Nazareth and Nagar",FMCG,Startup (<50),Kishanganj,Tier-2,2023-12-06
+549,Sridhar-Ram,E-Commerce,Mid (200-1000),Meerut,Tier-3,2024-02-21
+550,Karpe LLC,Cybersecurity,Startup (<50),Mumbai,Tier-2,2023-11-12
+551,Bhakta Inc,Cybersecurity,Startup (<50),Parbhani,Tier-3,2023-10-18
+552,"Ramesh, Varty and Jain",Telecommunications,Mid (200-1000),Asansol,Tier-3,2023-11-13
+553,"Modi, Chandran and Nori",Logistics,Startup (<50),Sirsa,Tier-3,2024-01-27
+554,Parmer-Dutt,Cybersecurity,Mid (200-1000),Panihati,Tier-3,2024-01-10
+555,Subramanian-Batra,Healthcare,Small (50-200),Adoni,Tier-3,2024-02-06
+556,Saini LLC,Cybersecurity,Mid (200-1000),Phusro,Tier-3,2024-02-13
+557,Verma Ltd,E-Commerce,Small (50-200),Sambhal,Tier-1,2023-09-26
+558,"Pall, Chaudhari and Palla",Information Technology,Small (50-200),Sultan Pur Majra,Tier-2,2023-11-22
+559,Chandra Ltd,EdTech,Small (50-200),Karawal Nagar,Tier-2,2024-02-11
+560,Agarwal-Contractor,Telecommunications,Mid (200-1000),Hindupur,Tier-3,2024-03-21
+561,Sibal-Sahni,Telecommunications,Large (1000-5000),Guntur,Tier-1,2024-02-29
+562,Nadig-Mital,Healthcare,Small (50-200),Haridwar,Tier-3,2023-12-17
+563,Chad-Dora,Telecommunications,Mid (200-1000),Dewas,Tier-2,2024-01-09
+564,Zachariah-Dora,Information Technology,Mid (200-1000),Kochi,Tier-3,2024-01-27
+565,"Keer, Dewan and Pal",Manufacturing,Startup (<50),Panchkula,Tier-3,2023-07-22
+566,Char-Datta,Information Technology,Small (50-200),Morena,Tier-3,2023-12-06
+567,Sanghvi Ltd,FMCG,Startup (<50),Kamarhati,Tier-2,2023-09-20
+568,"Rajagopalan, Randhawa and Cheema",FMCG,Mid (200-1000),Gwalior,Tier-2,2023-10-18
+569,Devan and Sons,Cybersecurity,Enterprise (5000+),Khora ,Tier-3,2024-03-01
+570,Thakkar Inc,Financial Services,Enterprise (5000+),Nagaon,Tier-2,2023-11-10
+571,Dubey and Sons,Information Technology,Small (50-200),Naihati,Tier-3,2023-10-22
+572,"Varghese, Shetty and Lalla",Healthcare,Mid (200-1000),Bihar Sharif,Tier-3,2024-03-18
+573,Das-Datta,Information Technology,Large (1000-5000),Pune,Tier-2,2023-09-30
+574,Koshy-Wali,EdTech,Mid (200-1000),Gaya,Tier-3,2024-01-09
+575,"Wable, Varma and Keer",Cybersecurity,Small (50-200),Karnal,Tier-3,2023-06-14
+576,"Brahmbhatt, Buch and Pandey",E-Commerce,Mid (200-1000),Fatehpur,Tier-3,2024-02-27
+577,"Anand, Dugar and Kumer",EdTech,Startup (<50),Dehradun,Tier-2,2024-03-09
+578,"Pillay, Gill and Kannan",Logistics,Startup (<50),Ichalkaranji,Tier-3,2023-12-27
+579,Karnik-Kala,FMCG,Enterprise (5000+),Mysore,Tier-3,2023-12-14
+580,Borde PLC,Consulting,Startup (<50),Ongole,Tier-2,2023-06-08
+581,Bir Inc,FMCG,Mid (200-1000),Siliguri,Tier-2,2024-01-01
+582,"Khanna, Raja and Kapoor",Healthcare,Mid (200-1000),Gudivada,Tier-3,2023-11-30
+583,"Badal, Cherian and Basak",Manufacturing,Mid (200-1000),Raebareli,Tier-1,2024-01-26
+584,Keer Group,Consulting,Small (50-200),Sri Ganganagar,Tier-3,2023-06-09
+585,Shenoy-Choudhary,Telecommunications,Small (50-200),Bellary,Tier-3,2023-11-15
+586,"Batra, Borra and Sarin",Financial Services,Small (50-200),Aizawl,Tier-3,2023-08-27
+587,Bandi and Sons,Financial Services,Large (1000-5000),Warangal,Tier-2,2023-06-30
+588,Sarin Group,Financial Services,Small (50-200),Tirunelveli,Tier-2,2024-02-12
+589,"Sarkar, Seth and Kaur",Manufacturing,Mid (200-1000),Saharsa,Tier-3,2023-08-06
+590,"Mani, Varghese and Konda",Consulting,Mid (200-1000),Saharsa,Tier-2,2023-08-24
+591,"Prashad, Mishra and Sabharwal",Logistics,Mid (200-1000),Amravati,Tier-3,2023-08-10
+592,Ramachandran Group,Consulting,Mid (200-1000),Bhopal,Tier-2,2023-11-07
+593,Sabharwal-Tiwari,Logistics,Large (1000-5000),Dehradun,Tier-3,2023-10-25
+594,"Doshi, Kaur and Kannan",Financial Services,Mid (200-1000),Nangloi Jat,Tier-2,2024-02-25
+595,Tandon-Kashyap,Information Technology,Mid (200-1000),Sagar,Tier-1,2023-08-06
+596,"Khanna, Kade and Nadig",Manufacturing,Startup (<50),Tenali,Tier-3,2023-11-24
+597,"Chadha, Solanki and Oza",FMCG,Mid (200-1000),Fatehpur,Tier-2,2023-10-29
+598,"Nagarajan, Tara and Batta",Information Technology,Small (50-200),Burhanpur,Tier-3,2024-02-12
+599,"Purohit, Radhakrishnan and Bera",EdTech,Large (1000-5000),Begusarai,Tier-3,2023-09-28
+600,"Pandya, Bal and Sule",EdTech,Mid (200-1000),Pali,Tier-3,2023-12-25
+601,Kadakia-Wason,EdTech,Enterprise (5000+),Akola,Tier-2,2023-10-02
+602,Hayer PLC,EdTech,Startup (<50),Aurangabad,Tier-2,2023-08-20
+603,Bora Group,Manufacturing,Mid (200-1000),Jorhat,Tier-2,2023-10-04
+604,Mahal PLC,Telecommunications,Startup (<50),Vijayanagaram,Tier-3,2024-01-19
+605,"Sahota, Bera and Kamdar",Cybersecurity,Large (1000-5000),Purnia,Tier-3,2023-11-17
+606,"Golla, Hans and Bakshi",Information Technology,Large (1000-5000),Sonipat,Tier-3,2024-01-15
+607,Prabhu-Srivastava,Cybersecurity,Startup (<50),Karawal Nagar,Tier-2,2023-12-31
+608,"Mangal, Raval and Hans",Logistics,Small (50-200),Phagwara,Tier-3,2023-12-03
+609,Dada-Mallick,EdTech,Mid (200-1000),Sirsa,Tier-2,2024-01-21
+610,Sha-Bhakta,Healthcare,Mid (200-1000),Kurnool,Tier-3,2024-02-04
+611,Patla-Ratti,Manufacturing,Small (50-200),Udupi,Tier-2,2024-03-13
+612,Krishna and Sons,Cybersecurity,Startup (<50),Bhilwara,Tier-3,2023-11-28
+613,"Ravel, Date and Modi",Cybersecurity,Small (50-200),Purnia,Tier-2,2023-08-19
+614,"Tara, Magar and Shere",EdTech,Small (50-200),Bettiah,Tier-3,2023-07-09
+615,"Parmar, Karpe and Rajan",E-Commerce,Startup (<50),Bilaspur,Tier-2,2023-08-27
+616,"Jaggi, Choudhury and Varghese",EdTech,Small (50-200),Amritsar,Tier-1,2024-03-09
+617,Dara LLC,Manufacturing,Mid (200-1000),Patna,Tier-2,2024-01-01
+618,Cheema-Sarma,Telecommunications,Small (50-200),Kulti,Tier-2,2023-06-27
+619,Mand-Bajaj,Financial Services,Small (50-200),Agra,Tier-2,2024-02-07
+620,"Vohra, Gokhale and Mukherjee",EdTech,Startup (<50),Gudivada,Tier-1,2023-08-26
+621,Dhaliwal and Sons,E-Commerce,Enterprise (5000+),Katihar,Tier-2,2024-02-01
+622,Bail Ltd,FMCG,Enterprise (5000+),Amroha,Tier-2,2023-08-29
+623,"Gill, Golla and Jaggi",FMCG,Small (50-200),Anand,Tier-2,2023-10-19
+624,Palan-Kapur,FMCG,Startup (<50),Nangloi Jat,Tier-3,2024-01-06
+625,Shukla-Som,EdTech,Enterprise (5000+),Raurkela Industrial Township,Tier-2,2023-08-22
+626,Bedi-Kade,Healthcare,Startup (<50),Mysore,Tier-2,2023-12-21
+627,"Borra, Raja and Dhar",Telecommunications,Enterprise (5000+),Bhalswa Jahangir Pur,Tier-1,2023-10-09
+628,Reddy-Mutti,Logistics,Small (50-200),Sonipat,Tier-3,2024-03-26
+629,Loke PLC,FMCG,Large (1000-5000),Raurkela Industrial Township,Tier-2,2023-06-28
+630,Krishnamurthy-Mannan,E-Commerce,Small (50-200),Solapur,Tier-2,2023-07-01
+631,Chokshi Ltd,Healthcare,Small (50-200),Jehanabad,Tier-3,2024-02-20
+632,"Krishnamurthy, Oak and Patel",EdTech,Large (1000-5000),Chandrapur,Tier-3,2023-10-16
+633,Sachdeva-Deshpande,Information Technology,Small (50-200),Akola,Tier-3,2024-01-11
+634,Shah PLC,Information Technology,Small (50-200),Panipat,Tier-2,2023-07-01
+635,"Arya, Chawla and Venkataraman",Automotive,Small (50-200),Bardhaman,Tier-2,2023-10-13
+636,Pai Ltd,Financial Services,Startup (<50),Aurangabad,Tier-2,2023-11-23
+637,Borra-Tara,FMCG,Small (50-200),Ulhasnagar,Tier-2,2023-07-13
+638,"Sodhi, Gola and Tata",E-Commerce,Mid (200-1000),Pimpri-Chinchwad,Tier-3,2023-10-23
+639,Kurian LLC,E-Commerce,Mid (200-1000),Tumkur,Tier-2,2023-12-30
+640,Singh-Gera,FMCG,Small (50-200),Chandigarh,Tier-3,2023-11-11
+641,Dhar-Luthra,Telecommunications,Mid (200-1000),Saharsa,Tier-1,2023-11-11
+642,Kumer Inc,Healthcare,Startup (<50),Bharatpur,Tier-2,2024-03-05
+643,Dyal-Kalita,EdTech,Small (50-200),Miryalaguda,Tier-3,2023-07-06
+644,"Ramesh, Bhavsar and Dewan",Cybersecurity,Small (50-200),Dharmavaram,Tier-3,2023-09-12
+645,Maharaj-Rajagopal,Logistics,Startup (<50),Mirzapur,Tier-1,2024-02-02
+646,Shroff Ltd,Consulting,Startup (<50),Chittoor,Tier-3,2023-10-05
+647,Krish LLC,EdTech,Enterprise (5000+),Muzaffarpur,Tier-2,2023-08-22
+648,"Din, Jain and Dubey",FMCG,Startup (<50),Alappuzha,Tier-2,2023-10-24
+649,Krishnan-Sankaran,Consulting,Mid (200-1000),Davanagere,Tier-2,2023-07-07
+650,Ray-Tella,Manufacturing,Startup (<50),Dehri,Tier-2,2023-08-06
+651,Mahal-Dube,Cybersecurity,Startup (<50),Pudukkottai,Tier-2,2024-01-09
+652,Issac-Srinivasan,Cybersecurity,Mid (200-1000),Uluberia,Tier-3,2023-08-25
+653,"Dada, Wali and Bhatt",Information Technology,Small (50-200),Guna,Tier-1,2023-10-17
+654,Thaker LLC,Information Technology,Mid (200-1000),Pallavaram,Tier-2,2024-02-17
+655,Rajagopal-Edwin,EdTech,Small (50-200),Kamarhati,Tier-2,2023-08-12
+656,"Shroff, De and Lala",Information Technology,Startup (<50),Jhansi,Tier-3,2023-12-21
+657,Divan-Golla,Healthcare,Startup (<50),Alappuzha,Tier-3,2023-09-13
+658,"Karan, Kapur and Tak",Manufacturing,Small (50-200),Maheshtala,Tier-2,2023-12-26
+659,Butala-Lata,Financial Services,Startup (<50),Tirunelveli,Tier-1,2023-07-06
+660,Prabhakar-Kamdar,Automotive,Enterprise (5000+),Bhusawal,Tier-2,2024-02-11
+661,"Zacharia, Dube and Manne",Automotive,Mid (200-1000),Phagwara,Tier-2,2024-02-09
+662,"Chakrabarti, Lata and Dada",Healthcare,Mid (200-1000),Ujjain,Tier-3,2024-01-16
+663,"Naidu, Mangat and Setty",E-Commerce,Small (50-200),Latur,Tier-3,2024-02-22
+664,Handa-Chahal,E-Commerce,Small (50-200),Silchar,Tier-1,2023-12-13
+665,"More, Gandhi and Thaman",EdTech,Startup (<50),Hubli–Dharwad,Tier-2,2023-09-05
+666,Krishnamurthy-Mangal,Logistics,Enterprise (5000+),Secunderabad,Tier-1,2023-09-20
+667,"Trivedi, Randhawa and Subramanian",Cybersecurity,Startup (<50),Chapra,Tier-3,2024-02-15
+668,Chatterjee Inc,Information Technology,Startup (<50),Bhubaneswar,Tier-2,2023-10-25
+669,"Raman, Bhavsar and Verma",Financial Services,Startup (<50),Gaya,Tier-2,2023-07-04
+670,"Balasubramanian, Bhasin and Bora",Telecommunications,Startup (<50),Durgapur,Tier-3,2023-07-14
+671,"Goyal, Sibal and Choudhary",Consulting,Startup (<50),Guntur,Tier-2,2023-06-25
+672,"Atwal, Modi and Lalla",Healthcare,Enterprise (5000+),Pallavaram,Tier-3,2023-09-12
+673,Bains-Sur,Cybersecurity,Small (50-200),Bhopal,Tier-3,2023-09-27
+674,Raval-Bora,Information Technology,Startup (<50),Cuttack,Tier-2,2024-02-14
+675,Tailor-Chopra,EdTech,Large (1000-5000),Jodhpur,Tier-2,2023-10-28
+676,Rattan Group,Manufacturing,Small (50-200),Pudukkottai,Tier-2,2023-07-15
+677,"Sane, Mohan and Oak",Automotive,Startup (<50),Tenali,Tier-3,2023-11-02
+678,Sankaran-Buch,Healthcare,Small (50-200),Machilipatnam,Tier-3,2024-01-01
+679,"Choudhary, Chaudhari and Sha",Logistics,Small (50-200),Nadiad,Tier-1,2024-01-07
+680,"Radhakrishnan, Kade and Buch",Information Technology,Small (50-200),Ludhiana,Tier-3,2023-09-01
+681,"Hayre, Setty and Halder",Logistics,Startup (<50),Jamnagar,Tier-2,2023-06-09
+682,Kalla-Rout,Logistics,Large (1000-5000),Dewas,Tier-3,2023-09-10
+683,Gupta Inc,Financial Services,Startup (<50),Secunderabad,Tier-2,2023-09-22
+684,Lal Group,Telecommunications,Mid (200-1000),Panipat,Tier-3,2024-03-10
+685,Lanka and Sons,Automotive,Small (50-200),Mango,Tier-3,2023-06-25
+686,Agate Ltd,Cybersecurity,Mid (200-1000),Unnao,Tier-2,2023-08-21
+687,Kadakia Group,Logistics,Mid (200-1000),Amaravati,Tier-2,2023-07-05
+688,Bhalla Group,Information Technology,Mid (200-1000),Hajipur,Tier-1,2024-03-24
+689,Natarajan LLC,Healthcare,Enterprise (5000+),Mahbubnagar,Tier-3,2023-12-30
+690,Lad-Mammen,Telecommunications,Mid (200-1000),Gorakhpur,Tier-1,2023-12-29
+691,Sodhi Ltd,Telecommunications,Large (1000-5000),New Delhi,Tier-3,2024-01-21
+692,Nayak-Nagi,Telecommunications,Enterprise (5000+),Faridabad,Tier-3,2024-01-19
+693,Gandhi-Narasimhan,Healthcare,Startup (<50),Serampore,Tier-3,2023-12-31
+694,Amble-Ganesan,EdTech,Mid (200-1000),Karaikudi,Tier-3,2024-01-20
+695,"Gour, Dhillon and Chowdhury",Consulting,Startup (<50),Sirsa,Tier-2,2023-11-07
+696,Dayal-Dutt,EdTech,Large (1000-5000),Parbhani,Tier-1,2023-11-26
+697,Aurora and Sons,Manufacturing,Large (1000-5000),Varanasi,Tier-2,2023-11-17
+698,"Vala, Mani and Sandhu",FMCG,Mid (200-1000),Raiganj,Tier-3,2023-06-30
+699,Gokhale-Sahni,Healthcare,Small (50-200),Jehanabad,Tier-2,2023-10-07
+700,"Kalla, Varkey and Sem",Automotive,Startup (<50),Karaikudi,Tier-2,2023-07-27
+701,"Devan, Dani and Vasa",FMCG,Mid (200-1000),Yamunanagar,Tier-3,2023-11-17
+702,Doctor-Sarna,Cybersecurity,Large (1000-5000),Hazaribagh,Tier-1,2023-10-07
+703,Bakshi-Thakur,Healthcare,Small (50-200),Bijapur,Tier-1,2023-12-01
+704,Krish-Palan,Cybersecurity,Startup (<50),Motihari,Tier-3,2023-07-27
+705,Patla Ltd,Financial Services,Mid (200-1000),Gudivada,Tier-3,2023-06-26
+706,Saran and Sons,E-Commerce,Startup (<50),Gudivada,Tier-3,2023-12-13
+707,Gala PLC,FMCG,Startup (<50),Srinagar,Tier-2,2023-09-13
+708,"Rama, Garg and Loyal",FMCG,Startup (<50),Katihar,Tier-3,2023-11-09
+709,Chandran Inc,EdTech,Large (1000-5000),Jammu,Tier-2,2023-09-14
+710,"Wable, Ramaswamy and Nayak",Healthcare,Large (1000-5000),Kurnool,Tier-3,2023-06-26
+711,Rama Ltd,Automotive,Small (50-200),Machilipatnam,Tier-3,2023-08-09
+712,"Nayar, Om and Taneja",Healthcare,Startup (<50),Navi Mumbai,Tier-2,2023-10-06
+713,"Lad, Deo and Iyer",Healthcare,Mid (200-1000),Aizawl,Tier-2,2023-07-13
+714,"Bajaj, Atwal and Rau",Healthcare,Mid (200-1000),Haridwar,Tier-2,2023-12-04
+715,Devi and Sons,Logistics,Small (50-200),Tinsukia,Tier-1,2023-07-06
+716,Sarin Inc,Manufacturing,Small (50-200),Jalgaon,Tier-3,2024-02-22
+717,Sood Ltd,EdTech,Enterprise (5000+),Ballia,Tier-3,2023-11-20
+718,"Lalla, Pandit and Bhardwaj",Cybersecurity,Small (50-200),Rohtak,Tier-3,2023-06-15
+719,"Pandit, Ganesan and Dua",Telecommunications,Startup (<50),Nizamabad,Tier-3,2023-06-12
+720,"Rama, Shere and Mukhopadhyay",E-Commerce,Startup (<50),Ajmer,Tier-3,2023-12-10
+721,Pathak Ltd,Manufacturing,Enterprise (5000+),Buxar,Tier-2,2023-06-09
+722,Swamy Group,Consulting,Large (1000-5000),Jamshedpur,Tier-2,2023-08-10
+723,Ahuja Ltd,Consulting,Large (1000-5000),Shivpuri,Tier-2,2023-06-08
+724,Doshi PLC,Consulting,Small (50-200),Rourkela,Tier-3,2024-01-12
+725,"Chakrabarti, Mistry and Bhatia",Manufacturing,Mid (200-1000),Jalgaon,Tier-3,2023-07-25
+726,Tripathi-Balay,EdTech,Small (50-200),Tumkur,Tier-3,2023-08-03
+727,Koshy-Nagy,Cybersecurity,Small (50-200),Pune,Tier-3,2023-10-31
+728,Sanghvi-Sandal,Manufacturing,Startup (<50),Anantapuram,Tier-2,2024-02-15
+729,Subramanian PLC,Telecommunications,Large (1000-5000),New Delhi,Tier-3,2024-01-10
+730,"Shenoy, Bala and Natt",E-Commerce,Mid (200-1000),Bhubaneswar,Tier-2,2023-07-25
+731,Kashyap and Sons,Consulting,Small (50-200),Rourkela,Tier-3,2023-10-25
+732,Nagar Group,Automotive,Small (50-200),Dehradun,Tier-3,2023-10-04
+733,"Nanda, Sharma and Kala",Cybersecurity,Startup (<50),Jabalpur,Tier-1,2023-10-09
+734,"Raghavan, Wable and Mangat",Logistics,Enterprise (5000+),Karnal,Tier-3,2023-08-09
+735,Nanda-Nair,Telecommunications,Startup (<50),Faridabad,Tier-2,2024-03-23
+736,Hayre and Sons,Telecommunications,Mid (200-1000),Delhi,Tier-2,2023-10-06
+737,Suri-Jani,Information Technology,Enterprise (5000+),Aligarh,Tier-3,2023-08-29
+738,"Mammen, Baria and Ghose",FMCG,Large (1000-5000),Pallavaram,Tier-3,2023-10-23
+739,Gokhale Group,Information Technology,Small (50-200),Mehsana,Tier-2,2024-01-10
+740,Chakrabarti Inc,FMCG,Small (50-200),Haldia,Tier-3,2023-11-15
+741,Ramakrishnan-Basak,Telecommunications,Startup (<50),Siwan,Tier-2,2023-08-26
+742,Choudhury Ltd,EdTech,Mid (200-1000),Raiganj,Tier-2,2023-08-25
+743,Raman LLC,Logistics,Startup (<50),Thanjavur,Tier-3,2023-06-18
+744,Ghose-Krish,E-Commerce,Startup (<50),Unnao,Tier-3,2023-09-26
+745,Tak-Khanna,Cybersecurity,Small (50-200),Thane,Tier-3,2023-12-02
+746,Gill PLC,Automotive,Large (1000-5000),Mumbai,Tier-3,2023-09-14
+747,"Mann, Zachariah and Nori",Telecommunications,Mid (200-1000),Hubli–Dharwad,Tier-3,2024-01-23
+748,Rau Inc,Financial Services,Startup (<50),Bikaner,Tier-3,2023-08-22
+749,Saraf LLC,EdTech,Small (50-200),Belgaum,Tier-3,2024-03-06
+750,Dhar Group,E-Commerce,Small (50-200),Sasaram,Tier-2,2024-03-01
+751,"Kant, Grover and Nair",Manufacturing,Startup (<50),Bijapur,Tier-3,2024-02-27
+752,Yadav-Palan,Automotive,Enterprise (5000+),Kota,Tier-2,2023-07-14
+753,Gola-Sane,FMCG,Startup (<50),Jodhpur,Tier-3,2023-11-01
+754,Natarajan-Rege,FMCG,Startup (<50),Chandigarh,Tier-3,2023-12-01
+755,"Deol, Anne and Borra",Financial Services,Mid (200-1000),Bhilwara,Tier-3,2023-12-14
+756,"Mohanty, Mohan and Comar",Logistics,Mid (200-1000),Rajkot,Tier-2,2023-11-18
+757,"Pandey, Mangat and Mittal",FMCG,Startup (<50),Dharmavaram,Tier-2,2024-03-25
+758,Bhatti-Warrior,Financial Services,Small (50-200),Unnao,Tier-3,2024-03-25
+759,"Gupta, Bhavsar and Murthy",Manufacturing,Small (50-200),Mathura,Tier-3,2023-11-08
+760,Hayre-Suri,Consulting,Mid (200-1000),Haridwar,Tier-1,2023-10-29
+761,"Pillay, Chaudhary and Dara",Manufacturing,Startup (<50),Gaya,Tier-2,2024-01-08
+762,Nath PLC,Manufacturing,Enterprise (5000+),Kakinada,Tier-2,2023-11-12
+763,Lala-Wali,E-Commerce,Small (50-200),Kottayam,Tier-2,2023-09-30
+764,Lala PLC,FMCG,Startup (<50),Surendranagar Dudhrej,Tier-2,2023-06-04
+765,Mangat-Din,Information Technology,Large (1000-5000),Jhansi,Tier-1,2023-10-11
+766,Jha-Agrawal,Financial Services,Startup (<50),Dewas,Tier-3,2023-12-07
+767,"Shroff, Gola and Bajwa",E-Commerce,Enterprise (5000+),Karaikudi,Tier-2,2023-11-03
+768,Brar and Sons,E-Commerce,Startup (<50),Sirsa,Tier-2,2024-02-25
+769,Taneja Ltd,Consulting,Mid (200-1000),Jamshedpur,Tier-3,2024-02-09
+770,Narayan Group,Automotive,Small (50-200),Ahmednagar,Tier-2,2023-12-05
+771,Varghese Inc,EdTech,Small (50-200),Yamunanagar,Tier-1,2023-10-09
+772,Dass-Parmar,Telecommunications,Mid (200-1000),Chittoor,Tier-3,2023-06-05
+773,Oza Ltd,Financial Services,Small (50-200),Panihati,Tier-3,2024-02-13
+774,Hari-Murthy,FMCG,Startup (<50),Mirzapur,Tier-2,2024-01-27
+775,Nori-Bhasin,Telecommunications,Mid (200-1000),Khandwa,Tier-3,2023-11-25
+776,Bumb-Nadkarni,Information Technology,Small (50-200),Panipat,Tier-2,2023-08-03
+777,"Murthy, Nayak and Srivastava",Logistics,Mid (200-1000),Chennai,Tier-3,2023-11-02
+778,Kumar-Dutta,Consulting,Small (50-200),Gwalior,Tier-2,2024-01-18
+779,Basu Ltd,Information Technology,Large (1000-5000),Ongole,Tier-2,2023-09-25
+780,"Bhatia, Wagle and Sethi",Consulting,Mid (200-1000),Firozabad,Tier-3,2024-02-06
+781,Venkataraman Group,E-Commerce,Enterprise (5000+),Haldia,Tier-3,2023-11-23
+782,Iyer-Patla,Information Technology,Startup (<50),Dewas,Tier-2,2023-08-05
+783,"Venkatesh, Bhalla and Bajwa",Automotive,Startup (<50),Kolhapur,Tier-2,2023-06-15
+784,Khurana-Banerjee,Information Technology,Large (1000-5000),Bellary,Tier-3,2023-11-06
+785,Choudhary LLC,Logistics,Small (50-200),Thiruvananthapuram,Tier-3,2023-07-10
+786,Balakrishnan-Master,Telecommunications,Small (50-200),Bikaner,Tier-1,2024-02-03
+787,Pall-Chada,Cybersecurity,Small (50-200),Guwahati,Tier-3,2023-06-17
+788,"Mishra, Maharaj and Nadkarni",Logistics,Small (50-200),Ambala,Tier-1,2024-02-09
+789,Brahmbhatt LLC,Healthcare,Mid (200-1000),Mathura,Tier-3,2023-10-17
+790,"Sabharwal, Apte and Cheema",Cybersecurity,Large (1000-5000),Dindigul,Tier-3,2024-01-03
+791,Dass and Sons,Information Technology,Startup (<50),North Dumdum,Tier-2,2023-10-06
+792,Majumdar PLC,Financial Services,Mid (200-1000),Kadapa,Tier-2,2023-12-29
+793,"Subramanian, Parekh and Sagar",Financial Services,Small (50-200),Tirupati,Tier-3,2023-09-22
+794,"Morar, Kalla and Rau",Logistics,Mid (200-1000),Sangli-Miraj & Kupwad,Tier-1,2023-10-31
+795,Nagy Ltd,Information Technology,Mid (200-1000),Rajahmundry,Tier-2,2024-02-05
+796,Mann Group,FMCG,Startup (<50),Morena,Tier-2,2023-08-05
+797,"Dash, Tata and Kar",Logistics,Mid (200-1000),Cuttack,Tier-2,2023-07-15
+798,Pillai-Sood,Consulting,Startup (<50),Vijayawada,Tier-2,2023-10-16
+799,Brar-Varma,EdTech,Startup (<50),Dhule,Tier-3,2024-02-02
+800,Talwar-Shah,EdTech,Mid (200-1000),Kottayam,Tier-1,2023-08-30
+801,Doshi-Rai,Telecommunications,Mid (200-1000),Amaravati,Tier-1,2023-11-24
+802,Venkataraman-More,Manufacturing,Mid (200-1000),Nadiad,Tier-3,2023-08-31
+803,Banerjee Inc,Cybersecurity,Mid (200-1000),Navi Mumbai,Tier-3,2024-02-13
+804,"Chowdhury, Borde and Kunda",Cybersecurity,Small (50-200),Shahjahanpur,Tier-2,2023-09-12
+805,Boase PLC,E-Commerce,Enterprise (5000+),Hospet,Tier-2,2024-03-14
+806,Rai Inc,Consulting,Small (50-200),Avadi,Tier-2,2024-02-06
+807,Hegde-Dasgupta,Logistics,Large (1000-5000),Kottayam,Tier-3,2024-02-13
+808,"Agate, Golla and Kota",EdTech,Mid (200-1000),Pallavaram,Tier-3,2023-07-17
+809,Samra and Sons,EdTech,Large (1000-5000),Adoni,Tier-2,2023-06-27
+810,"Sane, Das and Sastry",Consulting,Startup (<50),Vadodara,Tier-2,2023-12-18
+811,Chaudry Group,Automotive,Mid (200-1000),Thoothukudi,Tier-3,2024-02-16
+812,Yogi Ltd,Financial Services,Enterprise (5000+),Mira-Bhayandar,Tier-3,2023-11-25
+813,Chander PLC,EdTech,Startup (<50),Tirupati,Tier-3,2024-01-26
+814,Dube PLC,Financial Services,Large (1000-5000),Latur,Tier-3,2023-11-14
+815,Rau LLC,EdTech,Small (50-200),Bhopal,Tier-3,2023-12-30
+816,Pandey Ltd,Logistics,Large (1000-5000),Solapur,Tier-2,2023-12-31
+817,"Bora, Varghese and Borah",Financial Services,Mid (200-1000),Kozhikode,Tier-2,2024-01-02
+818,Bedi LLC,Consulting,Small (50-200),South Dumdum,Tier-2,2024-03-13
+819,Kothari-Boase,FMCG,Small (50-200),Bangalore,Tier-3,2023-11-02
+820,Mangal-Saha,Information Technology,Startup (<50),Madanapalle,Tier-3,2024-03-16
+821,Narasimhan-Koshy,Healthcare,Small (50-200),Tenali,Tier-2,2024-01-02
+822,Lad-Pandit,Cybersecurity,Small (50-200),Rourkela,Tier-3,2023-10-01
+823,Wagle Ltd,Consulting,Mid (200-1000),Motihari,Tier-3,2023-10-07
+824,"Murthy, Nori and Merchant",Consulting,Mid (200-1000),Nagaon,Tier-3,2023-06-08
+825,Keer-Misra,EdTech,Small (50-200),Rajkot,Tier-2,2024-03-18
+826,"Kapadia, Golla and Natarajan",EdTech,Startup (<50),Singrauli,Tier-3,2023-11-08
+827,"Bal, Walia and Chhabra",Financial Services,Large (1000-5000),Srikakulam,Tier-3,2023-12-29
+828,"Thaker, Mukhopadhyay and Nanda",Financial Services,Mid (200-1000),Morena,Tier-2,2023-07-07
+829,Chahal-Yadav,Healthcare,Small (50-200),Malegaon,Tier-3,2023-09-15
+830,Dubey-Subramanian,FMCG,Startup (<50),Kakinada,Tier-3,2023-11-19
+831,Brar-Vora,Consulting,Large (1000-5000),Cuttack,Tier-2,2023-09-05
+832,Kamdar-Nair,E-Commerce,Mid (200-1000),Rampur,Tier-3,2023-08-07
+833,"Choudhry, Manne and Palla",Manufacturing,Mid (200-1000),Khora ,Tier-3,2023-12-08
+834,"Ranganathan, Upadhyay and Hora",Financial Services,Mid (200-1000),Jamalpur,Tier-3,2024-02-17
+835,Gara-Mammen,E-Commerce,Large (1000-5000),Alwar,Tier-3,2023-12-09
+836,Kapoor-Sur,Consulting,Large (1000-5000),Imphal,Tier-3,2023-12-24
+837,Sawhney-Hegde,Financial Services,Startup (<50),Junagadh,Tier-3,2023-08-05
+838,Prakash LLC,Financial Services,Mid (200-1000),Jabalpur,Tier-3,2023-08-14
+839,"Baria, Zacharia and Bhandari",Logistics,Startup (<50),Noida,Tier-3,2024-01-06
+840,"Mohan, Dyal and Oommen",FMCG,Startup (<50),Mahbubnagar,Tier-3,2024-01-17
+841,Sarna-Gaba,Cybersecurity,Mid (200-1000),Mangalore,Tier-2,2023-11-07
+842,Suri-Sagar,Automotive,Small (50-200),Mira-Bhayandar,Tier-3,2023-12-16
+843,"Tata, Thaker and Gaba",FMCG,Small (50-200),Anand,Tier-3,2024-02-04
+844,"Chand, Devan and Mital",Automotive,Startup (<50),Mirzapur,Tier-1,2023-11-03
+845,Sawhney and Sons,Automotive,Startup (<50),Jamnagar,Tier-3,2024-02-02
+846,Bhakta PLC,FMCG,Mid (200-1000),Khora ,Tier-1,2024-02-15
+847,"Sachdev, Pai and Dugal",Logistics,Large (1000-5000),Panchkula,Tier-2,2023-12-27
+848,Subramanian Ltd,Cybersecurity,Large (1000-5000),Coimbatore,Tier-3,2023-09-10
+849,"Viswanathan, Chanda and Oak",Financial Services,Mid (200-1000),Tinsukia,Tier-2,2024-03-19
+850,"Gala, Divan and Sharaf",Consulting,Small (50-200),Mirzapur,Tier-3,2023-09-23
+851,Dhar-Nayak,Information Technology,Small (50-200),Gudivada,Tier-1,2023-11-25
+852,Sama LLC,E-Commerce,Enterprise (5000+),Nellore,Tier-1,2024-02-09
+853,Ray-Shere,Logistics,Startup (<50),Pudukkottai,Tier-3,2023-06-27
+854,"Swaminathan, Karnik and Toor",Manufacturing,Enterprise (5000+),Chapra,Tier-2,2023-09-13
+855,Chand and Sons,Consulting,Large (1000-5000),Vasai-Virar,Tier-2,2024-03-19
+856,Choudhary PLC,E-Commerce,Large (1000-5000),Chandigarh,Tier-2,2023-09-01
+857,Vala Ltd,EdTech,Startup (<50),Mirzapur,Tier-3,2024-03-15
+858,"Dhar, Aurora and Sagar",Cybersecurity,Mid (200-1000),Mau,Tier-2,2023-07-11
+859,Devi-Magar,Consulting,Startup (<50),Durg,Tier-3,2023-10-07
+860,Balay-Kulkarni,E-Commerce,Small (50-200),Mangalore,Tier-3,2023-09-29
+861,Sengupta Group,Information Technology,Large (1000-5000),Allahabad,Tier-3,2023-08-01
+862,Mandal-Mistry,E-Commerce,Startup (<50),Bikaner,Tier-2,2024-02-03
+863,"Dey, Som and Saran",Manufacturing,Mid (200-1000),Shahjahanpur,Tier-1,2023-12-25
+864,"Bhatti, Choudhury and Sodhi",FMCG,Small (50-200),Rourkela,Tier-2,2023-06-06
+865,"Kata, Sehgal and Nanda",Financial Services,Small (50-200),Adoni,Tier-3,2024-02-05
+866,"Desai, Uppal and Seshadri",Consulting,Startup (<50),Rohtak,Tier-3,2023-09-13
+867,"Narang, Palan and Issac",Financial Services,Small (50-200),Suryapet,Tier-1,2023-07-17
+868,Dora-Prashad,FMCG,Mid (200-1000),Narasaraopet,Tier-3,2024-02-13
+869,Sule-Borah,Consulting,Small (50-200),Dehri,Tier-3,2023-10-03
+870,Taneja-Padmanabhan,Telecommunications,Enterprise (5000+),Kochi,Tier-2,2023-06-09
+871,Varty LLC,Automotive,Small (50-200),Tenali,Tier-2,2023-12-03
+872,Savant Ltd,Logistics,Large (1000-5000),Chapra,Tier-1,2023-11-25
+873,Sem-Chander,Healthcare,Startup (<50),Bhiwandi,Tier-3,2023-12-16
+874,Buch-Acharya,Information Technology,Mid (200-1000),Bahraich,Tier-2,2024-01-02
+875,Korpal-Aurora,E-Commerce,Small (50-200),Gorakhpur,Tier-3,2023-08-28
+876,"Parmer, Sura and Kara",Healthcare,Small (50-200),Durg,Tier-3,2023-06-07
+877,Divan-Guha,Consulting,Startup (<50),Giridih,Tier-2,2023-09-05
+878,Iyer LLC,EdTech,Small (50-200),Morbi,Tier-2,2023-12-31
+879,Sule-Mann,Telecommunications,Startup (<50),Unnao,Tier-3,2023-09-14
+880,Raghavan-Nagar,Logistics,Startup (<50),Ulhasnagar,Tier-2,2023-11-28
+881,Warrior Group,Telecommunications,Enterprise (5000+),Katni,Tier-3,2024-01-19
+882,Padmanabhan-Bhasin,EdTech,Small (50-200),Vadodara,Tier-2,2023-12-18
+883,Hegde-Comar,FMCG,Small (50-200),Farrukhabad,Tier-1,2023-10-27
+884,Gaba-Bora,E-Commerce,Mid (200-1000),Kozhikode,Tier-1,2024-02-22
+885,"Acharya, Barad and Chana",Manufacturing,Mid (200-1000),Bhalswa Jahangir Pur,Tier-3,2023-07-04
+886,Mohan-Kadakia,Information Technology,Small (50-200),Hubli–Dharwad,Tier-2,2023-10-31
+887,"Kar, Nair and Issac",Information Technology,Mid (200-1000),Anand,Tier-3,2023-06-19
+888,Merchant Inc,Healthcare,Large (1000-5000),Saharsa,Tier-1,2023-08-21
+889,Joshi-Venkatesh,Telecommunications,Startup (<50),Panihati,Tier-2,2023-09-13
+890,Dey-Kulkarni,Information Technology,Enterprise (5000+),Udaipur,Tier-1,2023-09-20
+891,"Magar, Sarraf and Baria",E-Commerce,Enterprise (5000+),Jabalpur,Tier-2,2023-11-05
+892,"Srivastava, Sen and Bhardwaj",Automotive,Small (50-200),Bathinda,Tier-2,2023-08-29
+893,Khatri Ltd,Cybersecurity,Startup (<50),Amaravati,Tier-3,2024-01-14
+894,Seth-Chaudhry,Manufacturing,Small (50-200),Khora ,Tier-2,2023-12-13
+895,"Gole, Deo and Andra",Healthcare,Mid (200-1000),Chapra,Tier-3,2023-11-14
+896,Tripathi-Edwin,E-Commerce,Small (50-200),Rajkot,Tier-2,2023-09-26
+897,Manda-Cheema,EdTech,Startup (<50),Uluberia,Tier-3,2023-12-29
+898,Gara-Parikh,Financial Services,Small (50-200),Bihar Sharif,Tier-2,2023-07-30
+899,Andra-Nath,Automotive,Small (50-200),Bareilly,Tier-3,2024-02-19
+900,"Murthy, Devi and Kapadia",Cybersecurity,Mid (200-1000),Moradabad,Tier-2,2023-08-17
+901,Swaminathan Group,Information Technology,Large (1000-5000),New Delhi,Tier-3,2023-10-03
+902,Goswami-Kurian,Automotive,Mid (200-1000),Srikakulam,Tier-2,2023-06-02
+903,Divan LLC,Logistics,Small (50-200),Nadiad,Tier-3,2024-01-06
+904,"Padmanabhan, Sampath and Loyal",Logistics,Startup (<50),Nellore,Tier-2,2024-03-25
+905,Dani LLC,EdTech,Startup (<50),Mahbubnagar,Tier-3,2024-02-14
+906,Dhar Ltd,Logistics,Mid (200-1000),Shimla,Tier-1,2023-12-29
+907,Bhatia-Wable,E-Commerce,Small (50-200),Ghaziabad,Tier-3,2023-07-05
+908,Majumdar-Ahuja,Automotive,Large (1000-5000),Shahjahanpur,Tier-3,2023-11-19
+909,Chatterjee-Prashad,Healthcare,Mid (200-1000),Danapur,Tier-2,2023-07-03
+910,Chand-Krishnamurthy,Cybersecurity,Enterprise (5000+),Nizamabad,Tier-2,2023-07-23
+911,"Gulati, Ben and Hegde",Financial Services,Enterprise (5000+),Ghaziabad,Tier-3,2023-08-23
+912,"Sampath, Nair and Prasad",Automotive,Small (50-200),Ajmer,Tier-2,2023-07-11
+913,"Dalal, Deep and Biswas",Telecommunications,Small (50-200),Howrah,Tier-1,2024-02-04
+914,Rama-Ravi,FMCG,Small (50-200),Kulti,Tier-3,2023-06-16
+915,"Balay, Master and Arya",Healthcare,Startup (<50),Motihari,Tier-1,2023-12-18
+916,Mody and Sons,Consulting,Startup (<50),Rewa,Tier-2,2023-12-15
+917,Rau Inc,Consulting,Large (1000-5000),Kollam,Tier-2,2023-09-26
+918,Ghosh LLC,Consulting,Mid (200-1000),Munger,Tier-2,2023-11-03
+919,"Raja, Doctor and Mane",Telecommunications,Mid (200-1000),Kharagpur,Tier-2,2023-08-29
+920,Vasa Ltd,Automotive,Enterprise (5000+),Baranagar,Tier-2,2023-07-08
+921,"Saraf, Samra and Bhatti",Logistics,Small (50-200),Unnao,Tier-3,2023-10-05
+922,Patel-Karan,E-Commerce,Startup (<50),Sambhal,Tier-1,2023-12-30
+923,Virk-Seshadri,EdTech,Mid (200-1000),Avadi,Tier-3,2024-03-24
+924,Johal-Kashyap,Automotive,Small (50-200),Rourkela,Tier-2,2023-10-22
+925,Majumdar-Suresh,EdTech,Large (1000-5000),Nadiad,Tier-3,2023-06-06
+926,Bajaj Inc,Healthcare,Mid (200-1000),Tadipatri,Tier-3,2023-09-11
+927,Singhal Group,Logistics,Mid (200-1000),Bokaro,Tier-3,2024-02-07
+928,Das-Mohanty,FMCG,Startup (<50),Tadipatri,Tier-2,2023-06-26
+929,"Cheema, Bhagat and Din",Cybersecurity,Startup (<50),Pune,Tier-3,2023-08-28
+930,Wason-Nagi,Logistics,Large (1000-5000),Bahraich,Tier-1,2023-10-21
+931,Khare LLC,Information Technology,Large (1000-5000),South Dumdum,Tier-3,2023-09-24
+932,Sankaran Group,Telecommunications,Enterprise (5000+),Panihati,Tier-2,2023-12-02
+933,"Deep, Setty and Wadhwa",Healthcare,Mid (200-1000),Rohtak,Tier-2,2023-11-24
+934,Rama-Suresh,Logistics,Startup (<50),Nandyal,Tier-2,2023-09-10
+935,Misra PLC,Logistics,Mid (200-1000),Suryapet,Tier-2,2023-07-26
+936,Mohanty-Solanki,Logistics,Mid (200-1000),Thiruvananthapuram,Tier-2,2023-09-11
+937,"Bhattacharyya, Dugal and Loke",E-Commerce,Startup (<50),Arrah,Tier-2,2023-10-07
+938,Saha-Banerjee,Cybersecurity,Enterprise (5000+),Darbhanga,Tier-3,2023-11-23
+939,"Chandran, Datta and Morar",E-Commerce,Mid (200-1000),Buxar,Tier-2,2024-01-16
+940,Gade LLC,Cybersecurity,Mid (200-1000),Deoghar,Tier-3,2023-11-16
+941,Saraf Group,Consulting,Startup (<50),Bangalore,Tier-3,2024-01-18
+942,Sur LLC,Financial Services,Small (50-200),Guntakal,Tier-2,2024-03-25
+943,"Barman, D’Alia and Kanda",Logistics,Large (1000-5000),Udaipur,Tier-2,2023-11-23
+944,"Sule, Upadhyay and Kara",Information Technology,Startup (<50),Nanded,Tier-2,2023-10-06
+945,"Bhat, Sandhu and Sarna",Information Technology,Mid (200-1000),Aizawl,Tier-3,2023-12-07
+946,Srinivasan-Bhatia,Consulting,Mid (200-1000),Tiruchirappalli,Tier-3,2024-02-12
+947,Vaidya Group,Telecommunications,Mid (200-1000),Kulti,Tier-1,2024-03-11
+948,"Dhar, Das and Mammen",Information Technology,Startup (<50),Tiruvottiyur,Tier-3,2024-01-20
+949,Pal and Sons,Financial Services,Small (50-200),Kamarhati,Tier-2,2023-08-04
+950,"Yogi, Sane and Hayer",Cybersecurity,Small (50-200),Asansol,Tier-3,2023-12-21
+951,Bobal Group,EdTech,Startup (<50),Karnal,Tier-3,2023-08-17
+952,Sathe LLC,Manufacturing,Startup (<50),Begusarai,Tier-2,2023-10-28
+953,Loke Group,Automotive,Small (50-200),Amritsar,Tier-1,2023-07-07
+954,Purohit LLC,Automotive,Small (50-200),Proddatur,Tier-2,2023-11-30
+955,"Sarna, Seth and Behl",E-Commerce,Mid (200-1000),Noida,Tier-3,2024-02-14
+956,Salvi PLC,Healthcare,Enterprise (5000+),Vijayanagaram,Tier-3,2024-02-15
+957,Bhat-Choudhary,Automotive,Large (1000-5000),Hazaribagh,Tier-3,2023-08-26
+958,"Raju, Cherian and Chaudhry",Information Technology,Mid (200-1000),Bhind,Tier-1,2023-07-08
+959,Devi-Deshmukh,EdTech,Large (1000-5000),Chandigarh,Tier-3,2023-08-01
+960,Setty-Brar,Manufacturing,Startup (<50),Ramgarh,Tier-3,2024-03-27
+961,Dayal-Rege,Telecommunications,Small (50-200),Karnal,Tier-3,2024-01-13
+962,Iyer Inc,Telecommunications,Small (50-200),Gandhidham,Tier-2,2023-12-29
+963,Kanda-Naidu,Manufacturing,Startup (<50),Bardhaman,Tier-2,2024-03-21
+964,Natarajan-Pant,Financial Services,Enterprise (5000+),Hazaribagh,Tier-2,2023-10-04
+965,"Devan, Narang and Lad",Consulting,Mid (200-1000),Bhind,Tier-2,2023-07-14
+966,"Sundaram, Dash and Natt",Consulting,Mid (200-1000),Solapur,Tier-3,2023-11-28
+967,Walia-Sibal,Telecommunications,Mid (200-1000),Thane,Tier-2,2023-12-29
+968,Bhatt PLC,EdTech,Startup (<50),Bongaigaon,Tier-1,2023-08-10
+969,Parmar-Sani,Automotive,Enterprise (5000+),Hazaribagh,Tier-3,2023-08-25
+970,"Banik, Kapur and Pingle",E-Commerce,Startup (<50),Bahraich,Tier-3,2023-12-16
+971,"Samra, D’Alia and Borah",Financial Services,Startup (<50),Erode,Tier-2,2024-03-17
+972,Bhakta-Nadig,Logistics,Startup (<50),Rajpur Sonarpur,Tier-2,2023-11-15
+973,Gola-Gaba,Logistics,Startup (<50),Secunderabad,Tier-3,2023-10-16
+974,Wason Group,Cybersecurity,Small (50-200),Bettiah,Tier-1,2024-03-15
+975,Saxena and Sons,Logistics,Mid (200-1000),Chandrapur,Tier-2,2023-06-13
+976,Behl PLC,E-Commerce,Startup (<50),Malegaon,Tier-3,2024-03-15
+977,Rattan PLC,Manufacturing,Enterprise (5000+),Begusarai,Tier-2,2024-03-14
+978,Sangha PLC,Manufacturing,Enterprise (5000+),Bikaner,Tier-3,2024-03-24
+979,Venkataraman-Sharma,Manufacturing,Startup (<50),Sambalpur,Tier-2,2023-09-06
+980,Kala-Suri,Logistics,Small (50-200),Chandrapur,Tier-2,2023-10-10
+981,"Bath, Balay and Devi",Cybersecurity,Startup (<50),New Delhi,Tier-3,2023-11-11
+982,Kurian Inc,Telecommunications,Small (50-200),Vadodara,Tier-2,2024-02-01
+983,"Lata, Chadha and Chaudhary",Consulting,Startup (<50),Katihar,Tier-3,2023-12-20
+984,Bora Ltd,Financial Services,Mid (200-1000),Ahmednagar,Tier-2,2023-09-30
+985,Shukla-Doctor,Automotive,Small (50-200),Coimbatore,Tier-1,2024-03-01
+986,Kumar-Goswami,Consulting,Large (1000-5000),Haridwar,Tier-2,2023-11-23
+987,Krishnan-Warrior,Logistics,Mid (200-1000),Gorakhpur,Tier-3,2023-11-22
+988,Chhabra Inc,Information Technology,Enterprise (5000+),Rajkot,Tier-3,2023-06-18
+989,"Comar, Kannan and Jain",Cybersecurity,Mid (200-1000),Thane,Tier-3,2024-03-25
+990,Tiwari-Bhatnagar,Financial Services,Small (50-200),Mangalore,Tier-3,2023-12-06
+991,Ranganathan-Kota,FMCG,Mid (200-1000),Pallavaram,Tier-3,2023-11-25
+992,Guha-Lalla,Cybersecurity,Startup (<50),Pondicherry,Tier-2,2023-12-22
+993,Khatri-Nanda,Cybersecurity,Startup (<50),Tadipatri,Tier-1,2024-01-14
+994,Zacharia-Sem,Automotive,Small (50-200),Latur,Tier-2,2023-09-05
+995,Keer PLC,E-Commerce,Mid (200-1000),Purnia,Tier-2,2023-09-15
+996,Gera-Shan,FMCG,Startup (<50),Bhatpara,Tier-2,2023-12-04
+997,Mand LLC,FMCG,Large (1000-5000),Raiganj,Tier-2,2023-09-05
+998,Johal-Samra,Consulting,Small (50-200),Kirari Suleman Nagar,Tier-2,2023-06-08
+999,Kanda-Sachar,Financial Services,Small (50-200),Jamshedpur,Tier-3,2024-03-23
+1000,Dhar Group,Manufacturing,Startup (<50),Thanjavur,Tier-2,2023-07-15
